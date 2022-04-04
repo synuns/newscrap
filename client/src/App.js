@@ -1,38 +1,23 @@
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 import { CssBaseline } from "@mui/material";
-import axios from "axios";
-import { useEffect, useState } from "react";
 import NavBar from "./Components/NavBar";
+import News from "./Routes/News";
+import Search from "./Routes/Search";
+import Scrap from "./Routes/Scrap";
 
 function App() {
-  const [data, setData] = useState("");
-  const callApi = async () => {
-    axios.get("/api/news")
-      .then((res) => {
-        console.log(res.data);
-        setData(res.data);
-      })
-  };
-
-  useEffect(() =>{
-    callApi();
-  }, []);
-
   return (
-    <div>
+    <BrowserRouter>
       <CssBaseline />
       <NavBar />
-      {data && data.value.map((news, idx) => (
-        <div className="news" key={idx}>
-          <div>{news.name}</div>
-          <div>{news.description}</div>
-          <div>{news.datePublished}</div>
-          {news.image && 
-            <img alt="thumbnail" src={news.image.thumbnail.contentUrl} />
-          }
-        </div>
-      ))}
-    </div>
+      <Routes>
+        <Route path="/" element={<News />} />
+        <Route path="/search" element={<Search />} />
+        <Route path="/scrap" element={<Scrap />} />
+      </Routes>
+    </BrowserRouter>
   );
 }
+
 
 export default App;
