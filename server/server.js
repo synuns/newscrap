@@ -1,8 +1,16 @@
 const express = require("express");
 const app = express();
-const bingNews = require("./Router/bingNewsApi");
 
-app.use("/api/news", bingNews);
+const trends = require("./Router/googleTrends");
+const news = require("./Router/bingNews");
+const newsSearch = require("./Router/bingNewsSearch");
+
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
+
+app.use("/api/trends", trends);
+app.use("/api/news", news);
+app.use("/api/news/search", newsSearch);
 
 const port = 5000;
 app.listen(port, () => console.log(`Listening on ${port}`));

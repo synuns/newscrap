@@ -1,29 +1,27 @@
 require("dotenv").config({ path: "../.env"})
 const express = require("express");
 const axios = require("axios");
+const url = require('url');
 const router = express.Router();
 
 router.get("/", async (req, res) => {
-  // bing major news api
-  // const url = "https://api.bing.microsoft.com/v7.0/news";
-  // bing news serach api
-  const url = "https://api.bing.microsoft.com/v7.0/news/search";
+  const queryData = url.parse(req.url, true).query;
+	const query = queryData.query;
   const key = process.env.AZURE_KEY;
-  const query = "스포츠";
   const mkt = "ko-kr";
   const options = {
     method: 'get',
-    url: url,
+    url: "https://api.bing.microsoft.com/v7.0/news/search",
     headers: { 'Ocp-Apim-Subscription-Key': key },
     json: true,
     params: { 
-      q: query, 
+      q: query,
       mkt: mkt,
       sortBy: "date", // or "relevance"
-      // originalImg: true, 
-      textDecorations: true, // hightlight option
+      safeSearch: "off",
+      textDecorations: true,
       // offset: 10
-      count: 10,
+      count: 100,
     }
   }
   await axios(options)
