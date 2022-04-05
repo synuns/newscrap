@@ -1,13 +1,16 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
+import { Container } from "@mui/material";
+import NewsCard from "../Components/NewsCard";
 
 const News = () => {
   const [data, setData] = useState("");
+  
   const callApi = async () => {
     axios.get("/api/news")
       .then((res) => {
-        console.log(res.data);
-        setData(res.data);
+        // console.log(res.data);
+        setData(res.data.value);
       })
   };
 
@@ -16,18 +19,11 @@ const News = () => {
   }, []);
 
   return (
-    <div>
-      {data && data.value.map((news, idx) => (
-        <div className="news" key={idx}>
-          <div>{news.name}</div>
-          <div>{news.description}</div>
-          <div>{news.datePublished}</div>
-          {news.image && 
-            <img alt="thumbnail" src={news.image.thumbnail.contentUrl} />
-          }
-        </div>
+    <Container>
+      {data && data.map((news, idx) => (
+        <NewsCard key={idx} news={news} />
       ))}
-    </div>
+    </Container>
   );
 }
 
