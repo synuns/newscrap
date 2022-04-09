@@ -32,17 +32,17 @@ const News = () => {
     <Container>
       <Box>
         <Typography>트렌드</Typography>
-        {result[2] && <KeywordsList keywords={result[2].data.items} />}
+        {result[2].data && <KeywordsList keywords={result[2].data.items} />}
       </Box>
       <Box>
         <Typography>주요 뉴스</Typography>
-        {result[0] && result[0].data.value.map((news, idx) => (
+        {result[0].data && result[0].data.value.map((news, idx) => (
           <NewsCard key={idx} news={news} />
         ))}
       </Box>
       <Box>
         <Typography>인기 뉴스</Typography>
-        {result[1] && result[1].data.value.map((news, idx) => (
+        {result[1].data && result[1].data.value.map((news, idx) => (
           <NewsCard key={idx} news={news} />
         ))}
       </Box>
