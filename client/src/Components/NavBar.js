@@ -6,6 +6,7 @@ import SearchIcon from '@mui/icons-material/Search';
 import ArrowDropDownIcon from '@mui/icons-material/ArrowDropDown';
 import MenuIcon from '@mui/icons-material/Menu';
 import HomeIcon from '@mui/icons-material/Home';
+import TrendingUpIcon from '@mui/icons-material/TrendingUp';
 import BookmarkIcon from '@mui/icons-material/Bookmark';
 import ClearIcon from '@mui/icons-material/Clear';
 
@@ -68,6 +69,7 @@ const StyledInputBase = styled(InputBase)(({ theme }) => ({
 
 const pages = [
   ['Home', '/', <HomeIcon />],
+  ['Trends', '/trends', <TrendingUpIcon />],
   ['Scrap', '/scrap', <BookmarkIcon />]
 ];
 

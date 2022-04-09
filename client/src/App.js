@@ -4,7 +4,7 @@ import NavBar from "./Components/NavBar";
 import News from "./Routes/News";
 import Search from "./Routes/Search";
 import Scrap from "./Routes/Scrap";
-import Keywords from "./Routes/Keywords";
+import Trends from "./Routes/Trends";
 
 function App() {
   return (
@@ -14,7 +14,7 @@ function App() {
       <Routes>
         <Route path="/" element={<News />} />
         <Route path="/search" element={<Search />} />
-        <Route path="/keyword" element={<Keywords />} />
+        <Route path="/trends" element={<Trends />} />
         <Route path="/scrap" element={<Scrap />} />
       </Routes>
     </BrowserRouter>
