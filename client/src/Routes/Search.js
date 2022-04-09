@@ -1,29 +1,33 @@
-import React, { useEffect, useState } from 'react';
+import React from 'react';
 import { useSearchParams } from 'react-router-dom';
-import axios from "axios";
 import { Container } from '@mui/material';
 import NewsCard from '../Components/NewsCard';
+import { useQuery } from 'react-query';
+import NewsSearchAPI from '../api/NewsSearchAPI';
 
 const Search = () => {
-  const [searchParams, setSearchParams] = useSearchParams();
-  const [data, setData] = useState("");
+  // [searchParams, setSearchParams]
+  const [searchParams] = useSearchParams();
   const query = searchParams.get('query');
+  const { status, data, error } = useQuery(
+    "getNewsSearch", 
+    () => NewsSearchAPI(query),
+    {
+      // 동기화 처리(enable option)
+      enabled: !!query
+    }
+  );
 
-  const callApi = async () => {
-    axios.get(`/api/news/search?query=${query}`)
-      .then((res) => {
-        console.log(res.data);
-        setData(res.data.value);
-      })
-  };
-
-  useEffect(() =>{
-    callApi(query);
-  }, []);
+  if (status === "loading") {
+    return <span>Loading...</span>;
+  }
+  if (status === "error") {
+    return <span>Error: {error.message}</span>;
+  }
 
   return (
     <Container>
-      {data && data.map((news, idx) => (
+      {data && data.value.map((news, idx) => (
         <NewsCard key={idx} news={news} />
       ))}
     </Container>
