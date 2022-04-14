@@ -1,11 +1,13 @@
-import React from "react";
-import { useQueries } from "react-query";
-import NewsCard from "../Components/NewsCard";
+import React, { Suspense } from "react";
+import { ErrorBoundary } from "react-error-boundary";
+import { useQueries, useQueryErrorResetBoundary } from "react-query";
+import { Box, Button, Container, Typography } from "@mui/material";
 import NewsAPI from "../api/NewsAPI";
 import NewsSearchAPI from "../api/NewsSearchAPI";
-import TrendsAPI from "../api/TrendsAPI";
-import { Box, Container, Typography } from "@mui/material";
-import KeywordsList from "../Components/KeywordsList";
+import NewsCard from "../Components/NewsCard";
+import NewsList from "../Components/NewsList";
+import KeywordList from "../Components/KeywordList";
+
 
 const News = () => {
   const result = useQueries([
@@ -16,12 +18,9 @@ const News = () => {
     {
       queryKey: "getNewsSearch",
       queryFn: () => NewsSearchAPI("")
-    },
-    {
-      queryKey: "getTrends",
-      queryFn: () => TrendsAPI()
     }
   ]);
+  // const { reset } = useQueryErrorResetBoundary();
 
   // useEffect(() =>{
   //   const loadingFinishAll = result.some(result => result.isLoading);
@@ -31,18 +30,17 @@ const News = () => {
   return (
     <Container>
       <Box>
-        <Typography>트렌드</Typography>
-        {result[2].data && <KeywordsList keywords={result[2].data.items} />}
+        <KeywordList />
       </Box>
       <Box>
-        <Typography>주요 뉴스</Typography>
-        {result[0].data && result[0].data.value.map((news, idx) => (
+        <Typography variant="h4">주요 뉴스</Typography>
+        {result[0].data.data.value.map((news, idx) => (
           <NewsCard key={idx} news={news} />
         ))}
       </Box>
       <Box>
-        <Typography>인기 뉴스</Typography>
-        {result[1].data && result[1].data.value.map((news, idx) => (
+        <Typography variant="h4">인기 뉴스</Typography>
+        {result[1].data.value.map((news, idx) => (
           <NewsCard key={idx} news={news} />
         ))}
       </Box>

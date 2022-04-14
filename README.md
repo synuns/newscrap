@@ -5,12 +5,11 @@
 - [x] news api
 - [x] news search api
 - [x] google trends api
-- [ ] ErrorBoundary
-- [ ] Loading(with skeleton ui)
-- [ ] news image card
-- [ ] keyword list
-- [ ] keyword page
+- [x] keyword list
+- [x] Trend pages
 - [ ] news contents (modal, page)
 - [ ] add theme
 - [ ] add detail design
+- [ ] ErrorBoundary
+- [ ] Loading(with skeleton ui)
 - [ ] scrap page
