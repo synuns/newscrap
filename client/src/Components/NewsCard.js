@@ -1,5 +1,6 @@
 import { Box, Card, CardActionArea, CardContent, CardMedia, Typography } from '@mui/material';
 import React from 'react';
+import fromNow from '../utils/fromNow';
 
 const NewsCard = ({ news }) => {
   return (
@@ -32,7 +33,7 @@ const NewsCard = ({ news }) => {
               {news.description}...
             </Typography>
             <Typography variant="caption">
-              {news.datePublished}
+              {fromNow(news.datePublished)}
             </Typography>
           </CardContent>
           {news.image &&
