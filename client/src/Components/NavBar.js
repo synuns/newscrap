@@ -1,5 +1,5 @@
 import React, { useCallback, useEffect, useState } from 'react';
-import { useNavigate, Link } from 'react-router-dom';
+import { useNavigate, useLocation, useSearchParams, Link } from 'react-router-dom';
 import { AppBar, Avatar, Box, Button, IconButton, InputBase, Toolbar, Typography, Slide, useScrollTrigger, Menu, MenuItem } from '@mui/material';
 import { styled } from '@mui/material/styles';
 import SearchIcon from '@mui/icons-material/Search';
@@ -79,7 +79,11 @@ const NavBar = () => {
   const [value, setValue] = useState('');
   const [navMenuOpened, setNavMenuOpened] = useState(false);
   const [anchorElUser, setAnchorElUser] = useState(null);
+  const [searchParams] = useSearchParams();
+  const location = useLocation();
   const navigate = useNavigate();
+
+  // const query = searchParams.get('query');
 
   const onValueChange = useCallback(
     (e) => {
@@ -124,7 +128,13 @@ const NavBar = () => {
     return () => {
       window.removeEventListener('resize', handleResize);
     }
-  })
+  });
+
+  useEffect(() => {
+    if(location.pathname === "/search"){
+      setValue(searchParams.get('query'));
+    }
+  }, [location, searchParams]);
 
   return (
     <HideOnScroll
