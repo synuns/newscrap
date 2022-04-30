@@ -20,6 +20,8 @@ router.get("/", async (req, res) => {
       sortBy: "date", // or "relevance"
       safeSearch: "off",
       textDecorations: true,
+      textFormat: "html",
+      originalImg: true,
       // offset: 10
       count: 100,
     }

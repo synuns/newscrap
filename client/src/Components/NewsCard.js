@@ -1,6 +1,7 @@
 import { Box, Card, CardActionArea, CardContent, CardMedia, Typography } from '@mui/material';
 import React from 'react';
 import fromNow from '../utils/fromNow';
+import htmlDecode from '../utils/htmlDecode';
 
 const NewsCard = ({ news }) => {
   return (
@@ -23,14 +24,14 @@ const NewsCard = ({ news }) => {
               className="title"
               sx={{ height: '28px', overflow: 'hidden', }}
             >
-              {news.name}
+              {htmlDecode(news.name)}
             </Typography>
             <Typography 
               paragraph 
               className="description"
               sx={{ height: '70px', overflow: 'hidden', textOverflow: 'ellipsis' }}
             >
-              {news.description}...
+              {htmlDecode(news.description)}
             </Typography>
             <Typography variant="caption">
               {fromNow(news.datePublished)}
