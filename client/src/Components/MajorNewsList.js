@@ -5,11 +5,11 @@ import NewsAPI from '../api/NewsAPI';
 import NewsCard from './NewsCard';
 
 const MajorNewsList = () => {
-  const { data } = useQuery(['majorNews'], NewsAPI);
+  const majorNews = useQuery(['majorNews'], NewsAPI);
 
   return (
     <Box>
-      {data.value.map((news, idx) => (
+      {majorNews.data.value.map((news, idx) => (
         <NewsCard key={idx} news={news} />
       ))}
     </Box>

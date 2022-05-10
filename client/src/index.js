@@ -3,13 +3,14 @@ import ReactDOM from 'react-dom';
 import App from './App';
 import { QueryCache, QueryClient, QueryClientProvider } from 'react-query';
 import { ReactQueryDevtools } from 'react-query/devtools';
+import ModalsProvider from './Context/Modal/ModalsProvider';
 
 const queryClient = new QueryClient({
   defaultOptions: {
-    refetchOnWindowFocus: false,
     queries: {
       retry: 0,
-      suspense: true
+      refetchOnWindowFocus: false,
+      suspense: true,
     }
   },
   queryCache: new QueryCache({
@@ -26,7 +27,9 @@ ReactDOM.render(
   <React.StrictMode>
     <QueryClientProvider client={queryClient}>
       <ReactQueryDevtools initialIsOpen={false} />
-      <App />
+      <ModalsProvider>
+        <App />
+      </ModalsProvider>
     </QueryClientProvider>
   </React.StrictMode>,
   document.getElementById('root')
