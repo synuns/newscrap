@@ -3,117 +3,17 @@
     "webSearchUrl": "https://www.bing.com/news/search?q=top+stories&form=TNSA02",
     "value": [
         {
-            "name": "[속보]윤석열 당선인 '안철수 패싱' 논란에···\"이해 안 돼, 아무 문제 없다고 생각\"",
-            "url": "https://www.msn.com/ko-kr/news/politics/%EC%9C%A4%EC%84%9D%EC%97%B4-%EB%8B%B9%EC%84%A0%EC%9D%B8-%EC%95%88%EC%B2%A0%EC%88%98-%ED%8C%A8%EC%8B%B1-%EB%85%BC%EB%9E%80%EC%97%90-%EC%9D%B4%ED%95%B4-%EC%95%88-%EB%8F%BC-%EC%95%84%EB%AC%B4-%EB%AC%B8%EC%A0%9C-%EC%97%86%EB%8B%A4%EA%B3%A0-%EC%83%9D%EA%B0%81/ar-AAWcVNE",
+            "name": "윤석열 대통령 임기 시작... 일성은 \"확고한 군사준비태세\"",
+            "url": "https://www.msn.com/ko-kr/news/national/%EC%9C%A4%EC%84%9D%EC%97%B4-%EB%8C%80%ED%86%B5%EB%A0%B9-%EC%9E%84%EA%B8%B0-%EC%8B%9C%EC%9E%91-%EC%9D%BC%EC%84%B1%EC%9D%80-%ED%99%95%EA%B3%A0%ED%95%9C-%EA%B5%B0%EC%82%AC%EC%A4%80%EB%B9%84%ED%83%9C%EC%84%B8/ar-AAX51Cc",
             "image": {
                 "thumbnail": {
-                    "contentUrl": "https://www.bing.com/th?id=OVFT.Qw0E80VHz98BvMv8JAJqOi&pid=News",
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.bImrGfikk9Vs9PqVYIDFjS&pid=News",
                     "width": 600,
                     "height": 315
                 },
                 "isLicensed": true
             },
-            "description": "  윤석열 대통령 당선인은 14일 새 정부 첫 조각에서 안철수 대통령직인수위원회 위원장 추천 인사가 모두 배제돼 논란이 이는 것을 두고 “거기(인선 과정)에 대해 아무 문제가 없다고 생각한다”고 말했다.  윤 당선인은 이날 오후 서울 통의동 인수위 기자회견장에서 고용노동부·농림축산식품부 장관 내정자를 발표한 뒤 취재진의 안 위원장 관련 질문을 받고 이같이",
-            "provider": [
-                {
-                    "_type": "Organization",
-                    "name": "경향신문",
-                    "image": {
-                        "thumbnail": {
-                            "contentUrl": "https://www.bing.com/th?id=ODF.jgPGs3ZkcMqv7I073KQHbg&pid=news"
-                        }
-                    }
-                }
-            ],
-            "datePublished": "2022-04-14T05:19:00.0000000Z"
-        },
-        {
-            "name": "尹당선인, 1기 내각 인선 완료…농림 정황근·노동 이정식(종합)",
-            "url": "https://www.msn.com/ko-kr/news/other/%E5%B0%B9%EB%8B%B9%EC%84%A0%EC%9D%B8-1%EA%B8%B0-%EB%82%B4%EA%B0%81-%EC%9D%B8%EC%84%A0-%EC%99%84%EB%A3%8C-%EB%86%8D%EB%A6%BC-%EC%A0%95%ED%99%A9%EA%B7%BC-%EB%85%B8%EB%8F%99-%EC%9D%B4%EC%A0%95%EC%8B%9D%EC%A2%85%ED%95%A9/ar-AAWd9Qa",
-            "image": {
-                "thumbnail": {
-                    "contentUrl": "https://www.bing.com/th?id=OVFT.12Hpi9eoEWmyqHYRzQw5Iy&pid=News",
-                    "width": 499,
-                    "height": 314
-                },
-                "isLicensed": true
-            },
-            "description": "국무총리·18개 부처 장관 지명…대통령 비서실 인선도 속도낼듯  (서울=연합뉴스) 이유미 이동환 기자 = 윤석열 대통령 당선인은 14일 농림축산식품부 장관에 정황근 전 농촌진흥청장, 고용노동부 장관에 이정식 전 노사발전재단 사무총장을 지명했다.  윤 당선인은 이날 서울 통의동 인수위 사무실에서 이 같은 내용의 인선안을 발표했다.  이로써 새 정부 초대",
-            "provider": [
-                {
-                    "_type": "Organization",
-                    "name": "연합뉴스",
-                    "image": {
-                        "thumbnail": {
-                            "contentUrl": "https://www.bing.com/th?id=ODF.1w-i42REUmBls5jZ__5EJA&pid=news"
-                        }
-                    }
-                }
-            ],
-            "datePublished": "2022-04-14T07:25:39.0000000Z"
-        },
-        {
-            "name": "정호영 내정자 아들 의대 편입 당시 '특별전형' 합격자 중 경북대 출신 1명",
-            "url": "https://www.msn.com/ko-kr/news/national/%EB%8B%A8%EB%8F%85-%EC%A0%95%ED%98%B8%EC%98%81-%EC%95%84%EB%93%A4-%EA%B2%BD%EB%B6%81%EC%9D%98%EB%8C%80-%ED%8E%B8%EC%9E%85-%EB%95%8C-%EA%B2%BD%EB%B6%81%EB%8C%80-%EC%B6%9C%EC%8B%A0-%EB%94%B1-1%EB%AA%85-%ED%8A%B9%EB%B3%84%EC%A0%84%ED%98%95-%EC%84%9C%EB%A5%98-5%EB%93%B1/ar-AAWd7D9",
-            "image": {
-                "thumbnail": {
-                    "contentUrl": "https://www.bing.com/th?id=OVFT.KhgcHddTzQE6-8UtTYH_Ai&pid=News",
-                    "width": 600,
-                    "height": 315
-                },
-                "isLicensed": true
-            },
-            "description": "  경북대병원장을 지낸 정호영 보건복지부 장관 내정자 아들(31)의 경북대 의대 학사편입 당시 합격자 33명 중 경북대 출신은 정 내정자의 아들 1명이었던 것으로 파악됐다. 정 내정자 아들이 응시한 ‘특별전형’ 합격자는 17명이었는데, 대부분 카이스트와 포항공대 출신이었다. 특별전형은 해당 지역의 고교·대학 출신이 대상이다.  14일 김원이 더불어민주당",
-            "provider": [
-                {
-                    "_type": "Organization",
-                    "name": "경향신문",
-                    "image": {
-                        "thumbnail": {
-                            "contentUrl": "https://www.bing.com/th?id=ODF.jgPGs3ZkcMqv7I073KQHbg&pid=news"
-                        }
-                    }
-                }
-            ],
-            "datePublished": "2022-04-14T07:31:00.0000000Z"
-        },
-        {
-            "name": "[2보] '검수완박 대응' 전국 평검사회의 19일 오전 개최",
-            "url": "https://www.msn.com/ko-kr/news/national/2%EB%B3%B4-%EA%B2%80%EC%88%98%EC%99%84%EB%B0%95-%EB%8C%80%EC%9D%91-%EC%A0%84%EA%B5%AD-%ED%8F%89%EA%B2%80%EC%82%AC%ED%9A%8C%EC%9D%98-19%EC%9D%BC-%EC%98%A4%EC%A0%84-%EA%B0%9C%EC%B5%9C/ar-AAWcLbc",
-            "image": {
-                "thumbnail": {
-                    "contentUrl": "https://www.bing.com/th?id=OVFT.Yfef48dKu6gzaeA9fEB8ki&pid=News",
-                    "width": 499,
-                    "height": 314
-                },
-                "isLicensed": true
-            },
-            "description": " (서울=연합뉴스) 성도현 기자 = 전국 평검사들이 더불어민주당의 '검수완박'(검찰 수사권 완전 박탈) 입법 추진과 관련해 다음 주 평검사회의를 열고 대응 방안을 논의한다. 14일 법조계에 따르면 일선 검찰청 평검사들이 참여하는 '전국 평검사 대표회의'(가칭)는 19일 오전 10시 대검찰청 별관에서 열린다. 참석자 규모는 150여명이다. 전국 최대",
-            "provider": [
-                {
-                    "_type": "Organization",
-                    "name": "연합뉴스",
-                    "image": {
-                        "thumbnail": {
-                            "contentUrl": "https://www.bing.com/th?id=ODF.1w-i42REUmBls5jZ__5EJA&pid=news"
-                        }
-                    }
-                }
-            ],
-            "datePublished": "2022-04-14T07:55:41.0000000Z"
-        },
-        {
-            "name": "'일정 취소' 안철수, 거취 고민하나... 尹측 \"끝까지 책임 다할 것 기대\"",
-            "url": "https://www.msn.com/ko-kr/news/national/%EC%9D%BC%EC%A0%95-%EC%B7%A8%EC%86%8C-%EC%95%88%EC%B2%A0%EC%88%98-%EA%B1%B0%EC%B7%A8-%EA%B3%A0%EB%AF%BC%ED%95%98%EB%82%98-%E5%B0%B9%EC%B8%A1-%EB%81%9D%EA%B9%8C%EC%A7%80-%EC%B1%85%EC%9E%84-%EB%8B%A4%ED%95%A0-%EA%B2%83-%EA%B8%B0%EB%8C%80/ar-AAWcLZd",
-            "image": {
-                "thumbnail": {
-                    "contentUrl": "https://www.bing.com/th?id=OVFT.JgnxKdC4ujsx6nRcnW_g6y&pid=News",
-                    "width": 600,
-                    "height": 315
-                },
-                "isLicensed": true
-            },
-            "description": "안철수 대통령직 인수위원장이 13일 서울 종로구 삼청동 인수위원회에서 열린 제11차 코로나비상대응특별위원회 회의에서 발언하고 있다. 인수위사진기자단 뉴시스안철수 대통령직인수위원장이 14일 공식 일정을 전격 취소했다. 1·2차 내각 인선에 안 위원장 측 추천 인사가 배제되자 불편한 심기를 드러낸 것으로, 거취에 대한 고민에 들어간 것이 아니냐는 관측이",
+            "description": "윤석열 대통령이 10일 서울 용산구 대통령 집무실 지하에 마련된 국가위기관리센터에서 합동참모본부의 보고를 받고 있다. 대통령실 제공윤석열 대통령이 오늘 0시 대한민국 제20대 대통령 임기를 시작했다. 윤 대통령은 서울 용산구 대통령 집무실 지하에 새로 설치한 국가위기관리센터(지하 벙커) 상황실에서 합동참모본부의 보고를 받고 국군 통수권을 인수하는 것으로",
             "provider": [
                 {
                     "_type": "Organization",
@@ -125,20 +25,20 @@
                     }
                 }
             ],
-            "datePublished": "2022-04-14T01:20:53.0000000Z"
+            "datePublished": "2022-05-09T16:34:09.0000000Z"
         },
         {
-            "name": "기준금리 1.25→1.50% 또 인상…4%대 인플레 '불 끄기'(종합2보)",
-            "url": "https://www.msn.com/ko-kr/news/other/%EA%B8%B0%EC%A4%80%EA%B8%88%EB%A6%AC-125-150-%EB%98%90-%EC%9D%B8%EC%83%81-4-%EB%8C%80-%EC%9D%B8%ED%94%8C%EB%A0%88-%EB%B6%88-%EB%81%84%EA%B8%B0%EC%A2%85%ED%95%A92%EB%B3%B4/ar-AAWcxbE",
+            "name": "미리보는 尹 취임식…걸어서 연단 오르고 靑 개방 현장 중계도(종합)",
+            "url": "https://www.msn.com/ko-kr/news/national/%EB%AF%B8%EB%A6%AC%EB%B3%B4%EB%8A%94-%E5%B0%B9-%EC%B7%A8%EC%9E%84%EC%8B%9D-%EA%B1%B8%EC%96%B4%EC%84%9C-%EC%97%B0%EB%8B%A8-%EC%98%A4%EB%A5%B4%EA%B3%A0-%E9%9D%91-%EA%B0%9C%EB%B0%A9-%ED%98%84%EC%9E%A5-%EC%A4%91%EA%B3%84%EB%8F%84%EC%A2%85%ED%95%A9/ar-AAX3P5A",
             "image": {
                 "thumbnail": {
-                    "contentUrl": "https://www.bing.com/th?id=OVFT.jJUcXzgDJ7bpWd4OrOdf-y&pid=News",
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.nU6OY14aUwAdVYkZTh1YwC&pid=News",
                     "width": 499,
-                    "height": 276
+                    "height": 280
                 },
                 "isLicensed": true
             },
-            "description": "미국 빠른 긴축 가능성도 고려…작년 8월 이후 1.00%p↑금통위 \"올해 성장률 3.0% 밑돌고 물가상승률 3.1% 상회\"…한은 전망 수정 시사  (서울=연합뉴스) 신호경 이지헌 김유아 기자 = 한국은행이 총재 공석 상태에서도 치솟는 물가를 잡기 위해 지난 1월 이후 3개월 만에 다시 기준금리를 올렸다. 한은 금융통화위원회(이하 금통위)는 14일 오전",
+            "description": "개식영상에서 집무실 이전 의미 강조…尹, 국회 180ｍ 걸으며 시민들과 '스킨십'尹-文 나란히 착석…朴전대통령·이순자·김윤옥 등도 단상 위에 국민대표 20명과 단상에…'깐부 할아버지' 오영수·천안함 생존자 등 식순에 참여  (서울=연합뉴스) 홍지인 최덕재 기자 = 윤석열 대통령 당선인의 10일 취임식은 '국민이 함께 만드는 취임식'을 표방, 국민이 직접",
             "provider": [
                 {
                     "_type": "Organization",
@@ -150,70 +50,20 @@
                     }
                 }
             ],
-            "datePublished": "2022-04-14T02:16:27.0000000Z"
+            "datePublished": "2022-05-09T07:25:01.0000000Z"
         },
         {
-            "name": "정황근 농식품부 장관 내정자···귀농·귀촌 추진 등 정통 농정관료",
-            "url": "https://www.msn.com/ko-kr/money/topstories/%EC%A0%95%ED%99%A9%EA%B7%BC-%EB%86%8D%EC%8B%9D%ED%92%88%EB%B6%80-%EC%9E%A5%EA%B4%80-%EB%82%B4%EC%A0%95%EC%9E%90-%EA%B7%80%EB%86%8D-%EA%B7%80%EC%B4%8C-%EC%B6%94%EC%A7%84-%EB%93%B1-%EC%A0%95%ED%86%B5-%EB%86%8D%EC%A0%95%EA%B4%80%EB%A3%8C/ar-AAWcZL1",
+            "name": "마르코스 주니어, 필리핀 대통령 당선···‘독재자 가문의 귀환’",
+            "url": "https://www.msn.com/ko-kr/news/world/%EB%A7%88%EB%A5%B4%EC%BD%94%EC%8A%A4-%EC%A3%BC%EB%8B%88%EC%96%B4-%ED%95%84%EB%A6%AC%ED%95%80-%EB%8C%80%ED%86%B5%EB%A0%B9-%EB%8B%B9%EC%84%A0-%EB%8F%85%EC%9E%AC%EC%9E%90-%EA%B0%80%EB%AC%B8%EC%9D%98-%EA%B7%80%ED%99%98/ar-AAX5sh6",
             "image": {
                 "thumbnail": {
-                    "contentUrl": "https://www.bing.com/th?id=OVFT.LBmFk9dmQ9JzaqeFsGknXC&pid=News",
-                    "width": 499,
-                    "height": 314
-                },
-                "isLicensed": true
-            },
-            "description": "  농림축산식품부 장관에 내정된 정황근 전 농촌진흥청장(62)은 농식품부 대변인과 농업정책국장 등 농식품부 요직을 두루 거친 정통 관료 출신이다.  1960년 충남 천안에서 태어난 정 내정자는 대전고와 서울대 농학과를 나온 후 1984년 제20회 기술고시에 합격하면서 공직에 입문했다. 이후 농식품부 농촌인력과장, 혁신인사기획관, 대변인, 농촌정책국장,",
-            "provider": [
-                {
-                    "_type": "Organization",
-                    "name": "경향신문",
-                    "image": {
-                        "thumbnail": {
-                            "contentUrl": "https://www.bing.com/th?id=ODF.jgPGs3ZkcMqv7I073KQHbg&pid=news"
-                        }
-                    }
-                }
-            ],
-            "datePublished": "2022-04-14T05:59:00.0000000Z"
-        },
-        {
-            "name": "국회 간 김오수 \"검수완박은 검찰 없애는 '교각살우'\"(종합2보)",
-            "url": "https://www.msn.com/ko-kr/news/other/%EA%B5%AD%ED%9A%8C-%EA%B0%84-%EA%B9%80%EC%98%A4%EC%88%98-%EA%B2%80%EC%88%98%EC%99%84%EB%B0%95%EC%9D%80-%EA%B2%80%EC%B0%B0-%EC%97%86%EC%95%A0%EB%8A%94-%EA%B5%90%EA%B0%81%EC%82%B4%EC%9A%B0%EC%A2%85%ED%95%A92%EB%B3%B4/ar-AAWd3JA",
-            "image": {
-                "thumbnail": {
-                    "contentUrl": "https://www.bing.com/th?id=OVFT.iEFnwZS_P3vOvhtTIxfUxC&pid=News",
-                    "width": 499,
-                    "height": 314
-                },
-                "isLicensed": true
-            },
-            "description": "\"검찰수사 문제 있다면 특별법도 특위도 좋다, 개선 따를 것\"국회 부의장·법사위원장 등 면담…잇단 검사 사직에는 \"잘못된 제도 저지가 우선\"  (서울=연합뉴스) 정수연 정성조 기자 = 김오수 검찰총장은 14일 더불어민주당이 추진하는 '검수완박'(검찰 수사권 완전 박탈)에 대해 \"곧바로 검찰을 전부 폐지하는, 교각살우의 잘못은 하지 않았으면 좋겠다\"며 반대",
-            "provider": [
-                {
-                    "_type": "Organization",
-                    "name": "연합뉴스",
-                    "image": {
-                        "thumbnail": {
-                            "contentUrl": "https://www.bing.com/th?id=ODF.1w-i42REUmBls5jZ__5EJA&pid=news"
-                        }
-                    }
-                }
-            ],
-            "datePublished": "2022-04-14T04:41:41.0000000Z"
-        },
-        {
-            "name": "윤석열 당선인 “누구 사람, 누구 사람 따로 있는 게 아냐”",
-            "url": "https://www.msn.com/ko-kr/news/politics/%EC%9C%A4%EC%84%9D%EC%97%B4-%EB%8B%B9%EC%84%A0%EC%9D%B8-%EB%88%84%EA%B5%AC-%EC%82%AC%EB%9E%8C-%EB%88%84%EA%B5%AC-%EC%82%AC%EB%9E%8C-%EB%94%B0%EB%A1%9C-%EC%9E%88%EB%8A%94-%EA%B2%8C-%EC%95%84%EB%83%90/ar-AAWcVBL",
-            "image": {
-                "thumbnail": {
-                    "contentUrl": "https://www.bing.com/th?id=OVFT.oYGeNe6Rqbm5pywuXmmohS&pid=News",
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.GHhYU2j-T20y-MjYA4harS&pid=News",
                     "width": 600,
                     "height": 315
                 },
                 "isLicensed": true
             },
-            "description": "  윤석열 대통령 당선인이 14일 “공동 정부라는 건 함께 훌룡한 사람 찾아서 임무를 맡기는 것이지, 누구 사람 누구 사람이라는 게 따로 있는 게 아니다”고 말했다. 안철수계 인사들이 내각 인선에서 배제돼 공동정부가 좌초되는 것 아니냐는 우려를 정면 반박한 것이다.  윤 당선인은 이날 오후 서울 종로구 통의동 인수위원회에서 “안철수 대통령직인수위원장이",
+            "description": "  ‘필리핀 최악의 독재자’의 아들 페르디난드 마르코스(64) 전 상원의원이 차기 대통령에 사실상 당선됐다. 러닝메이트로 부통령에 출마한 현 로드리고 두테르테 대통령의 딸 사라 두테르테(44) 후보도 당선을 확정하며 ‘독재자 2세들’이 정권을 잡게 됐다.  미국 ABC뉴스 등에 따르면 10일(현지시간) 대통령에 마르코스 후보가, 부통령엔 사라 두테르테",
             "provider": [
                 {
                     "_type": "Organization",
@@ -225,70 +75,20 @@
                     }
                 }
             ],
-            "datePublished": "2022-04-14T04:54:00.0000000Z"
+            "datePublished": "2022-05-09T23:54:00.0000000Z"
         },
         {
-            "name": "인선 갈등 속 인수위 '결근'한 안철수…공동정부 기로에",
-            "url": "https://www.msn.com/ko-kr/news/other/%EC%9D%B8%EC%84%A0-%EA%B0%88%EB%93%B1-%EC%86%8D-%EC%9D%B8%EC%88%98%EC%9C%84-%EA%B2%B0%EA%B7%BC%ED%95%9C-%EC%95%88%EC%B2%A0%EC%88%98-%EA%B3%B5%EB%8F%99%EC%A0%95%EB%B6%80-%EA%B8%B0%EB%A1%9C%EC%97%90/ar-AAWcMHR",
+            "name": "코스피 3개월 만에 2600선 붕괴… 나스닥 급락 영향",
+            "url": "https://www.msn.com/ko-kr/money/topstories/%EC%BD%94%EC%8A%A4%ED%94%BC-3%EA%B0%9C%EC%9B%94-%EB%A7%8C%EC%97%90-2600%EC%84%A0-%EB%B6%95%EA%B4%B4-%EB%82%98%EC%8A%A4%EB%8B%A5-%EA%B8%89%EB%9D%BD-%EC%98%81%ED%96%A5/ar-AAX5waJ",
             "image": {
                 "thumbnail": {
-                    "contentUrl": "https://www.bing.com/th?id=OVFT.noaghTOhApkwLWcuWuRRvC&pid=News",
-                    "width": 498,
-                    "height": 314
-                },
-                "isLicensed": true
-            },
-            "description": "安, '패싱' 불만 공개 표출 속 尹 조각 인선 가속 (서울=연합뉴스) 김연정 기자 = 윤석열 대통령 당선인의 조각 인선을 둘러싸고 윤 당선인과 안철수 대통령직인수위원장이 공개적으로 갈등을 빚기 시작하면서 양측이 대선 기간 합의한 공동정부 운영이 기로에 섰다. 안 위원장은 14일 예정됐던 일정을 취소하고 인수위에 '결근'하는 등 불편한 심기를 고스란히",
-            "provider": [
-                {
-                    "_type": "Organization",
-                    "name": "연합뉴스",
-                    "image": {
-                        "thumbnail": {
-                            "contentUrl": "https://www.bing.com/th?id=ODF.1w-i42REUmBls5jZ__5EJA&pid=news"
-                        }
-                    }
-                }
-            ],
-            "datePublished": "2022-04-14T03:55:55.0000000Z"
-        },
-        {
-            "name": "[단독]'의대 편입' 정호영 아들 “놀랄 만한 아이디어 제안”···논문 공저자 “아이디어는 박사·연구실 것”",
-            "url": "https://www.msn.com/ko-kr/news/national/%EB%8B%A8%EB%8F%85-%EC%9D%98%EB%8C%80-%ED%8E%B8%EC%9E%85-%EC%A0%95%ED%98%B8%EC%98%81-%EC%95%84%EB%93%A4-%EB%86%80%EB%9E%84-%EB%A7%8C%ED%95%9C-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-%EC%A0%9C%EC%95%88-%EB%85%BC%EB%AC%B8-%EA%B3%B5%EC%A0%80%EC%9E%90-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EB%8A%94-%EB%B0%95%EC%82%AC-%EC%97%B0%EA%B5%AC%EC%8B%A4-%EA%B2%83/ar-AAWcSAt",
-            "image": {
-                "thumbnail": {
-                    "contentUrl": "https://www.bing.com/th?id=OVFT.eGniPEGOjrYkyyOBxi1XrC&pid=News",
-                    "width": 270,
-                    "height": 216
-                },
-                "isLicensed": true
-            },
-            "description": "  정호영 보건복지부 장관 내정자의 아들 정모씨(31)가 경북대 의대 편입학 시험에 응시하면서 제출한 자기소개서에 “(연구실) 선배들이 놀랄 만한 새로운 아이디어를 제안했다”며 유력 학술지 등재 논문을 첨부한 것으로 나타났다. 그러나 정씨의 논문에 공동저자로 참여한 관계자는 “아이디어가 원래 전부 다 연구실 것”이라며 “논문 작성은 학부생이 해도",
-            "provider": [
-                {
-                    "_type": "Organization",
-                    "name": "경향신문",
-                    "image": {
-                        "thumbnail": {
-                            "contentUrl": "https://www.bing.com/th?id=ODF.jgPGs3ZkcMqv7I073KQHbg&pid=news"
-                        }
-                    }
-                }
-            ],
-            "datePublished": "2022-04-14T07:44:00.0000000Z"
-        },
-        {
-            "name": "'여가부 폐지' 명 받은 김현숙, 의원 시절 '성평등' 강조했다",
-            "url": "https://www.msn.com/ko-kr/news/national/%EC%97%AC%EA%B0%80%EB%B6%80-%ED%8F%90%EC%A7%80-%EB%AA%85-%EB%B0%9B%EC%9D%80-%EA%B9%80%ED%98%84%EC%88%99-%EC%9D%98%EC%9B%90-%EC%8B%9C%EC%A0%88-%EC%84%B1%ED%8F%89%EB%93%B1-%EA%B0%95%EC%A1%B0%ED%96%88%EB%8B%A4/ar-AAWcq3t",
-            "image": {
-                "thumbnail": {
-                    "contentUrl": "https://www.bing.com/th?id=OVFT.JZwvD0F5-Kp4ZKzCJt792C&pid=News",
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.r9g-gB5JAltR7jdQAiAd9C&pid=News",
                     "width": 600,
                     "height": 315
                 },
                 "isLicensed": true
             },
-            "description": "김현숙 여성가족부 장관 후보자가 11일 서울 서대문구 인사청문회 준비단 사무실로 출근하고 있다. 연합뉴스'여성가족부 폐지 공약을 실천할 여가부 장관.'윤석열 대통령 당선인이 김현숙 여성가족부 장관 후보자에게 맡긴 임무다. 그가 어떤 비전을 가지고 장관직을 수행할지가 아닌, 부처를 어떻게 정리할지에 더 관심이 집중되는 역설적 상황. 과연 '여가부 폐지'의",
+            "description": "게티이미지뱅크코스피 2,600선이 무너졌다. 간밤 미국 뉴욕증시에서 나스닥이 4% 넘게 급락하는 등 긴축에 따른 경기 둔화 우려가 확산된 영향으로 풀이된다. 10일 한국거래소에 따르면, 코스피 개장과 동시에 심리적 지지선으로 여겨진 2,600선이 붕괴됐다. 이날 코스피는 전 거래일 대비 20.68포인트(0.79%) 빠진 2,590.13에 거래를 시작했다.",
             "provider": [
                 {
                     "_type": "Organization",
@@ -300,7 +100,207 @@
                     }
                 }
             ],
-            "datePublished": "2022-04-14T06:00:00.0000000Z"
+            "datePublished": "2022-05-10T00:08:07.0000000Z"
+        },
+        {
+            "name": "‘한동훈 청문회’ 17시간 30분 만에 종료…청문보고서 채택 무산",
+            "url": "https://www.msn.com/ko-kr/news/national/%ED%95%9C%EB%8F%99%ED%9B%88-%EC%B2%AD%EB%AC%B8%ED%9A%8C-17%EC%8B%9C%EA%B0%84-30%EB%B6%84-%EB%A7%8C%EC%97%90-%EC%A2%85%EB%A3%8C-%EC%B2%AD%EB%AC%B8%EB%B3%B4%EA%B3%A0%EC%84%9C-%EC%B1%84%ED%83%9D-%EB%AC%B4%EC%82%B0/ar-AAX5mV1",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.FMEJAlTuHoBY7C3VuxXlfi&pid=News",
+                    "width": 600,
+                    "height": 315
+                },
+                "isLicensed": true
+            },
+            "description": " 한동훈 법무부 장관 후보자에 대한 국회인사청문회가 개시된지 17시간 만에 종료됐다. 한 후보자에 대한 인사청문보고서는 채택되지 않았다. 국회 법제사법위원회는 전날 오전 10시에 시작한 청문회가 밤늦게까지 이어지자, 차수 변경으로 날짜를 넘겨 10일 새벽 3시30분께까지 진행했다. 증인 신문과 보충질의가 이어진 탓이었다. 국민의힘은 청문회 종료와 함께",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "한겨레",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.z7v4fLuKXaBfNOZPjBjMew&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2022-05-09T23:52:24.0000000Z"
+        },
+        {
+            "name": "임은정 \"한동훈, 아주 위험한 검사... 윤석열 일가 수사 못할 것\"",
+            "url": "https://www.msn.com/ko-kr/news/national/%EC%9E%84%EC%9D%80%EC%A0%95-%ED%95%9C%EB%8F%99%ED%9B%88-%EC%95%84%EC%A3%BC-%EC%9C%84%ED%97%98%ED%95%9C-%EA%B2%80%EC%82%AC-%EC%9C%A4%EC%84%9D%EC%97%B4-%EC%9D%BC%EA%B0%80-%EC%88%98%EC%82%AC-%EB%AA%BB%ED%95%A0-%EA%B2%83/ar-AAX59Tu",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.IdD63wP43ZO19NlLsB6TaC&pid=News",
+                    "width": 600,
+                    "height": 315
+                },
+                "isLicensed": true
+            },
+            "description": "한동훈 법무부 장관 후보자가 9일 오후 서울 여의도 국회에서 열린 인사청문회에 출석해 자리하고 있다. 연합뉴스 임은정 법무부 감찰담당관은 9일 “검찰 내 윤석열 사단이 존재한다”며 “한동훈 (법무부 장관) 후보자는 윤석열 당선인을 향한 수사하지 못할 것이기 때문에 회피해야 한다”고 말했다. 한 후보자는 '윤석열 사단'의 핵심 인사로 꼽힌다. 임 담당관은",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "한국일보",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.KBR3QQU3jNN8ZnHcADZlNw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2022-05-09T19:00:25.0000000Z"
+        },
+        {
+            "name": "[단독]골프공 찾으려다 연못에 빠져 '참변'···첫 ‘시민재해’ 적용 '중대재해법' 처벌",
+            "url": "https://www.msn.com/ko-kr/news/other/%EB%8B%A8%EB%8F%85-%EA%B3%A8%ED%94%84%EA%B3%B5-%EC%B0%BE%EC%9C%BC%EB%A0%A4%EB%8B%A4-%EC%97%B0%EB%AA%BB%EC%97%90-%EB%B9%A0%EC%A0%B8-%EC%B0%B8%EB%B3%80-%EC%B2%AB-%EC%8B%9C%EB%AF%BC%EC%9E%AC%ED%95%B4-%EC%A0%81%EC%9A%A9-%EC%A4%91%EB%8C%80%EC%9E%AC%ED%95%B4%EB%B2%95-%EC%B2%98%EB%B2%8C/ar-AAX3Wah",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.UugZLmONs2XXtlcIbWxmTi&pid=News",
+                    "width": 499,
+                    "height": 297
+                },
+                "isLicensed": true
+            },
+            "description": "  골프장에서 골프를 하던 50대 여성이 연못에 빠져 숨진 사건을 수사하고 있는 경찰이 이 사건이 ‘중대시민재해’에 해당한다고 판단하고 중대재해처벌법을 적용하기로 했다. 지난 1월 법 시행이후 공중시설 이용 중 발생한 사고에 대해 중대시민재해 혐의가 적용되는 것은 이번이 처음이다.  전남지방경찰청은 9일 “순천의 한 골프장에서 발생한 익사 사고가",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "경향신문",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.jgPGs3ZkcMqv7I073KQHbg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2022-05-09T07:06:00.0000000Z"
+        },
+        {
+            "name": "文 귀향에 들썩이는 양산 평산마을, 대규모 인파 몰린다",
+            "url": "https://www.msn.com/ko-kr/news/national/%E6%96%87-%EA%B7%80%ED%96%A5%EC%97%90-%EB%93%A4%EC%8D%A9%EC%9D%B4%EB%8A%94-%EC%96%91%EC%82%B0-%ED%8F%89%EC%82%B0%EB%A7%88%EC%9D%84-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%9D%B8%ED%8C%8C-%EB%AA%B0%EB%A6%B0%EB%8B%A4/ar-AAX5kvh",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.F4GWOadR5Hyqf5kjBciANS&pid=News",
+                    "width": 600,
+                    "height": 315
+                },
+                "isLicensed": true
+            },
+            "description": "9일 오후 문재인 대통령의 마지막 임기 후 퇴근 인사가 예정된 서울 종로구 청와대 분수대 앞이 지지자들로 붐비고 있다. 뉴시스문재인 대통령의 임기는 9일 밤 12시 종료됐다. 재임 중 여러 차례 \"퇴임 후 잊혀진 사람으로 살고 싶다\"는 바람을 내비친 그는 현직 칭호를 뗀 뒤 전직 타이틀을 달고서 취임 전 거주지 경남 양산시로 돌아간다. 대통령이 임기를",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "한국일보",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.KBR3QQU3jNN8ZnHcADZlNw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2022-05-09T19:30:00.0000000Z"
+        },
+        {
+            "name": "대구 소년·광주 소녀와 함께…취임식에서 강조된 尹 의중은?",
+            "url": "https://www.msn.com/ko-kr/news/politics/%EB%8C%80%EA%B5%AC-%EC%86%8C%EB%85%84-%EA%B4%91%EC%A3%BC-%EC%86%8C%EB%85%80%EC%99%80-%ED%95%A8%EA%BB%98-%EC%B7%A8%EC%9E%84%EC%8B%9D%EC%97%90%EC%84%9C-%EA%B0%95%EC%A1%B0%EB%90%9C-%E5%B0%B9-%EC%9D%98%EC%A4%91%EC%9D%80/ar-AAX5kTZ",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.yrcAZIOAuJFALBem6HnJdC&pid=News",
+                    "width": 600,
+                    "height": 315
+                },
+                "isLicensed": true
+            },
+            "description": "제20대 대통령 취임식을 하루 앞둔 9일 국회 본관 앞에 마련된 취임식장에서 취임식 준비 관계자들이 마무리 작업을 하고 있다. 윤창원 기자윤석열 대통령은 10일 국회에서 '다시, 대한민국! 새로운 국민의 나라'라는 슬로건을 내세우며 취임식을 한다.핵심 키워드는 '국민'과 '소통' 그리고 '어린이의 꿈'이다. 국민 곁에서 소통하며 새로운 대한민국을 열겠다는",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "노컷뉴스",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.lhz6XLscYcUYjOV0Wz7RSQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2022-05-09T20:10:00.0000000Z"
+        },
+        {
+            "name": "문 대통령, 퇴임 연설서 \"위대한 국민과 함께해 영광이었다\"",
+            "url": "https://www.msn.com/ko-kr/news/national/%EB%AC%B8-%EB%8C%80%ED%86%B5%EB%A0%B9-%ED%87%B4%EC%9E%84-%EC%97%B0%EC%84%A4%EC%84%9C-%EC%9C%84%EB%8C%80%ED%95%9C-%EA%B5%AD%EB%AF%BC%EA%B3%BC-%ED%95%A8%EA%BB%98%ED%95%B4-%EC%98%81%EA%B4%91%EC%9D%B4%EC%97%88%EB%8B%A4/ar-AAX3x0W",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT._-Dn1d4g9ItXqxXUFtqgci&pid=News",
+                    "width": 600,
+                    "height": 315
+                },
+                "isLicensed": true
+            },
+            "description": " 문재인 대통령과 김정숙 여사가 9일 오전 서울 동작구 국립서울현충원 내 현충탑 참배를 위해 이동하며 국기에 대한 경례를 하고 있다. 뉴시스문재인 대통령은 임기 마지막 날인 9일 퇴임 연설에서 “위대한 국민과 함께할 수 있어서 정말 영광이었다”고 말했다. 문 대통령은 “그동안 과분한 사랑과 지지로 성원해 주신 국민 여러분께 무한한 감사의 말씀을 드린다”며",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "한국일보",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.KBR3QQU3jNN8ZnHcADZlNw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2022-05-09T02:16:18.0000000Z"
+        },
+        {
+            "name": "문 대통령 “다음 정부도 성공의 역사 이어가길···통합의 길로 가야”",
+            "url": "https://www.msn.com/ko-kr/news/politics/%EB%AC%B8-%EB%8C%80%ED%86%B5%EB%A0%B9-%EB%8B%A4%EC%9D%8C-%EC%A0%95%EB%B6%80%EB%8F%84-%EC%84%B1%EA%B3%B5%EC%9D%98-%EC%97%AD%EC%82%AC-%EC%9D%B4%EC%96%B4%EA%B0%80%EA%B8%B8-%ED%86%B5%ED%95%A9%EC%9D%98-%EA%B8%B8%EB%A1%9C-%EA%B0%80%EC%95%BC/ar-AAX3h2r",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.XyoVz1rekEAw5joZWF8GoS&pid=News",
+                    "width": 600,
+                    "height": 315
+                },
+                "isLicensed": true
+            },
+            "description": "  문재인 대통령이 임기 마지막 날인 9일 “다음 정부에서도 성공하는 대한민국의 역사를 계속 이어나가기를 기대한다”고 말했다.  문 대통령은 이날 오전 10시 청와대 본관에서 한 퇴임 연설에서 윤석열 정부를 향해 “이전 정부들의 축적된 성과를 계승하고 발전시켜 더 국력이 커지고 더 나은 미래로 나아가기를 기원한다”면서 이같이 말했다. 문 대통령은 이를",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "경향신문",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.jgPGs3ZkcMqv7I073KQHbg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2022-05-09T01:24:00.0000000Z"
+        },
+        {
+            "name": "이재명 저격한 원희룡…조응천 \"후보자 중 역대급\"",
+            "url": "https://www.msn.com/ko-kr/news/national/%EC%9D%B4%EC%9E%AC%EB%AA%85-%EC%A0%80%EA%B2%A9%ED%95%9C-%EC%9B%90%ED%9D%AC%EB%A3%A1-%EC%A1%B0%EC%9D%91%EC%B2%9C-%ED%9B%84%EB%B3%B4%EC%9E%90-%EC%A4%91-%EC%97%AD%EB%8C%80%EA%B8%89/ar-AAX5s33",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.hhzz21tioa_sT-d93uEAji&pid=News",
+                    "width": 600,
+                    "height": 315
+                },
+                "isLicensed": true
+            },
+            "description": "원희룡 국토교통부장관 후보자에 대한 인사청문경과보고서 채택이 불발된 3일 조응천(왼쪽 두 번째) 더불어민주당 간사와 송석준(세 번째) 국민의힘 간사가 의견을 나누고 있다. 공동취재사진·뉴스1국회 국토교통위원회 소속 조응천 더불어민주당 의원이 원희룡 국토교통부 장관 후보자에 대해 \"가히 '역대급'\"이라며 강도 높게 비판했다. 원 후보자가 이재명 상임고문을",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "한국일보",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.KBR3QQU3jNN8ZnHcADZlNw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2022-05-09T23:00:10.0000000Z"
         }
     ]
 }
