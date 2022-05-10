@@ -2,14 +2,29 @@ import { Box, Card, CardActionArea, CardContent, CardMedia, Typography } from '@
 import React from 'react';
 import fromNow from '../utils/fromNow';
 import htmlDecode from '../utils/htmlDecode';
+import useModals from "../Hook/useModals";
+import { modals } from '../Components/Modals';
 
 const NewsCard = ({ news }) => {
+  const { openModal } = useModals();
+
+  const handleClick = () => {
+    openModal(modals.newsModal, { 
+      onSubmit: () => {
+        console.log('비즈니스 로직 처리...');
+      },
+      url: news.url,
+    });
+  };
+
   return (
     <Card 
       aria-label="news-card"
       sx={{ display: 'flex', my: 2, height: '180px' }}
     >
-      <CardActionArea>
+      <CardActionArea
+        onClick={handleClick}
+      >
         <Box 
           sx={{ 
             display: 'flex', 

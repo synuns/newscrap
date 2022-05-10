@@ -6,6 +6,7 @@ import News from "./Routes/News";
 import Search from "./Routes/Search";
 import Scrap from "./Routes/Scrap";
 import Trends from "./Routes/Trends";
+import Modals from './Components/Modals';
 
 const Wrapper = ({children}) => {
   const location = useLocation();
@@ -28,6 +29,7 @@ function App() {
           <Route path="/scrap" element={<Scrap />} />
         </Routes>
       </Wrapper>
+      <Modals />
     </BrowserRouter>
   );
 }
