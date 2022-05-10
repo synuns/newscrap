@@ -88,7 +88,6 @@ const KeywordList = () => {
           {keywordByDate[date].map((keyword, idx) => (
             <Card
               key={idx}
-              onClick={()=>handleSearch(keyword.title)}
               sx={{
                 mx: 1,
                 mb: 2,
@@ -101,32 +100,49 @@ const KeywordList = () => {
                 }}
               >
                 <CardMedia 
-                component="img"
-                image={keyword.picture}
-                alt="thumbnail"
-                sx={{ 
-                  width: '120px',
-                  height: '120px',
-                  borderRadius: '10%',
-                  mr: 2,
-                }}
-              />
+                  component="img"
+                  image={keyword.picture}
+                  alt="thumbnail"
+                  sx={{ 
+                    width: '120px',
+                    height: '120px',
+                    borderRadius: '10%',
+                    mr: 2,
+                  }}
+                />
                 <Box sx={{ display: 'flex', flexDirection: 'column' }}>
-                  <Typography variant="h5" sx={{ display: 'inline', mb: 1 }}>{keyword.title}</Typography>
+                  <Typography 
+                    variant="h5"
+                    onClick={()=>handleSearch(keyword.title)}
+                    sx={[
+                      { '&:hover' : { textDecoration: 'underline' } },
+                      { 
+                        display: 'block', 
+                        mb: 1 
+                      }
+                    ]}
+                  >
+                    {keyword.title}
+                  </Typography>
                   <Box sx={{ display: 'flex', alignItems: 'center', mb: 1 }}>
                     <VisibilityIcon sx={{ color: 'text.secondary' }}/>
                     <Typography sx={{ display: 'inline', color: 'text.secondary' }}>{keyword.traffic}</Typography>
                     <AccessTimeIcon  sx={{ ml: 1, color: 'text.secondary' }}/>
                     <Typography sx={{ display: 'inline', color: 'text.secondary' }}>{fromNow(keyword.isoDate)}</Typography>
                   </Box>
-                  <Box>
-                    {keyword.description && keyword.description.split(",").map((word, idx) => (
-                      <Button 
-                        key={idx}
-                        onClick={() => handleSearch(word)}
-                      >{word}</Button>
-                    ))}
-                  </Box>
+                    {keyword.description && 
+                      <Box>
+                        <Typography sx={{ display: 'block' }}>관련 검색어</Typography>
+                        {keyword.description.split(",").map((word, idx) => (
+                          <Button 
+                            key={idx}
+                            onClick={() => handleSearch(word)}
+                          >
+                            {word}
+                          </Button>
+                        ))}
+                      </Box>
+                    }
                   <Box
                     sx={{ 
                       width: '100%',
@@ -137,6 +153,7 @@ const KeywordList = () => {
                         key={idx}
                         sx={{
                           width: '100%',
+                          height: '20px',
                           display: 'inline-block',
                           overflow: 'hidden', 
                           textOverflow: 'ellipsis',
