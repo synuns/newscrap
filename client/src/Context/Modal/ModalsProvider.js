@@ -8,14 +8,14 @@ const ModalsProvider = ({ children }) => {
     setOpenedModals((modals) => {
       return [...modals, { Component, props }];
     });
-    console.log(opendedModals);
+    // console.log(opendedModals);
   };
 
   const close = (Component) => {
     setOpenedModals((modals) => {
       return modals.filter(modal => modal.Component !== Component);
     });
-    console.log(opendedModals);
+    // console.log(opendedModals);
   };
 
   const dispatch = useMemo(() => (
