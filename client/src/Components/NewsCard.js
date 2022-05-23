@@ -1,7 +1,7 @@
 import { Box, Card, CardActionArea, CardContent, CardMedia, Typography } from '@mui/material';
 import React from 'react';
-import fromNow from '../utils/fromNow';
-import htmlDecode from '../utils/htmlDecode';
+import fromNow from '../Utils/fromNow';
+import htmlDecode from '../Utils/htmlDecode';
 import useModals from "../Hook/useModals";
 import { modals } from '../Components/Modals';
 

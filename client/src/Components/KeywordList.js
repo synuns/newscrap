@@ -3,8 +3,8 @@ import { useQuery } from 'react-query';
 import _ from 'lodash';
 import moment from 'moment';
 import TrendsAPI from '../api/TrendsAPI';
-import fromNow from '../utils/fromNow';
-import htmlDecode from '../utils/htmlDecode';
+import fromNow from '../Utils/fromNow';
+import htmlDecode from '../Utils/htmlDecode';
 import { Box, Button, Card, CardContent, CardMedia, Typography } from '@mui/material';
 import VisibilityIcon from '@mui/icons-material/Visibility';
 import AccessTimeIcon from '@mui/icons-material/AccessTime';
@@ -37,7 +37,7 @@ const KeywordList = () => {
     keywordByDate = Object.keys(keywordByDate)
       .sort(
         (prevKey, nextKey) => {
-          return  moment(nextKey, dateForm) - moment(prevKey, dateForm);
+          return moment(nextKey, dateForm) - moment(prevKey, dateForm);
         }
       )
       .reduce(

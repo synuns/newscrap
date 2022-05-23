@@ -5,7 +5,7 @@ import NewsArticleAPI from '../api/NewsArticleAPI';
 import useModals from '../Hook/useModals';
 import { modals } from '../Components/Modals';
 import moment from 'moment';
-import htmlDecode from '../utils/htmlDecode';
+import htmlDecode from '../Utils/htmlDecode';
 import Grow from '@mui/material/Grow';
 import CloseIcon from '@mui/icons-material/Close';
 import StarIcon from '@mui/icons-material/Star';
@@ -118,8 +118,10 @@ const NewsModal = ({ onClose, url }) => {
             <Typography>{data.provider}</Typography>
           </Box>
         }
-        <Typography variant="h4">{htmlDecode(data.title)}</Typography>
-        <Typography>{moment(data.published).format('llll')}</Typography>
+        <Box>
+          <Typography variant="h4">{htmlDecode(data.title)}</Typography>
+          <Typography>{moment(data.published).format('llll')}</Typography>
+        </Box>
       </DialogTitle>
       <DialogContent dividers>
         <DialogContentText
