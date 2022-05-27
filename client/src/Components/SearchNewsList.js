@@ -5,7 +5,7 @@ import NewsCard from '../Components/NewsCard';
 
 const SearchNewsList = ({query}) => {
   const { data } = useQuery(
-    "getNewsSearch", 
+    ["getNewsSearch", query], 
     () => NewsSearchAPI(query),
     {
       // 동기화 처리(enable option)
