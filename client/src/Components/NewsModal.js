@@ -4,7 +4,7 @@ import { useQuery } from 'react-query';
 import NewsArticleAPI from '../api/NewsArticleAPI';
 import useModals from '../Hook/useModals';
 import { modals } from '../Components/Modals';
-import moment from 'moment';
+import { changeFormat } from '../Utils/time';
 import htmlDecode from '../Utils/htmlDecode';
 import Grow from '@mui/material/Grow';
 import CloseIcon from '@mui/icons-material/Close';
@@ -36,6 +36,7 @@ const NewsModal = ({ onClose, url }) => {
   const handleClickScrap = () => {
     openModal(modals.scrapModal, {
       data: data,
+      url: url,
     });
   };
 
@@ -120,7 +121,7 @@ const NewsModal = ({ onClose, url }) => {
         }
         <Box>
           <Typography variant="h4">{htmlDecode(data.title)}</Typography>
-          <Typography>{moment(data.published).format('llll')}</Typography>
+          <Typography>{changeFormat(data.published, 'llll')}</Typography>
         </Box>
       </DialogTitle>
       <DialogContent dividers>

@@ -3,7 +3,7 @@ import { useQuery } from 'react-query';
 import _ from 'lodash';
 import moment from 'moment';
 import TrendsAPI from '../api/TrendsAPI';
-import fromNow from '../Utils/fromNow';
+import { fromNow } from '../Utils/time';
 import htmlDecode from '../Utils/htmlDecode';
 import { Box, Button, Card, CardContent, CardMedia, Typography } from '@mui/material';
 import VisibilityIcon from '@mui/icons-material/Visibility';
