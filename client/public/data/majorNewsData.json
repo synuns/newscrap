@@ -3,42 +3,17 @@
     "webSearchUrl": "https://www.bing.com/news/search?q=top+stories&form=TNSA02",
     "value": [
         {
-            "name": "윤석열 대통령 임기 시작... 일성은 \"확고한 군사준비태세\"",
-            "url": "https://www.msn.com/ko-kr/news/national/%EC%9C%A4%EC%84%9D%EC%97%B4-%EB%8C%80%ED%86%B5%EB%A0%B9-%EC%9E%84%EA%B8%B0-%EC%8B%9C%EC%9E%91-%EC%9D%BC%EC%84%B1%EC%9D%80-%ED%99%95%EA%B3%A0%ED%95%9C-%EA%B5%B0%EC%82%AC%EC%A4%80%EB%B9%84%ED%83%9C%EC%84%B8/ar-AAX51Cc",
+            "name": "'인건비 줄이기용' 임금피크제 제동…대법, 가이드라인 제시(종합)",
+            "url": "https://www.msn.com/ko-kr/news/other/%EC%9D%B8%EA%B1%B4%EB%B9%84-%EC%A4%84%EC%9D%B4%EA%B8%B0%EC%9A%A9-%EC%9E%84%EA%B8%88%ED%94%BC%ED%81%AC%EC%A0%9C-%EC%A0%9C%EB%8F%99-%EB%8C%80%EB%B2%95-%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8-%EC%A0%9C%EC%8B%9C%EC%A2%85%ED%95%A9/ar-AAXJXtT",
             "image": {
                 "thumbnail": {
-                    "contentUrl": "https://www.bing.com/th?id=OVFT.bImrGfikk9Vs9PqVYIDFjS&pid=News",
-                    "width": 600,
-                    "height": 315
-                },
-                "isLicensed": true
-            },
-            "description": "윤석열 대통령이 10일 서울 용산구 대통령 집무실 지하에 마련된 국가위기관리센터에서 합동참모본부의 보고를 받고 있다. 대통령실 제공윤석열 대통령이 오늘 0시 대한민국 제20대 대통령 임기를 시작했다. 윤 대통령은 서울 용산구 대통령 집무실 지하에 새로 설치한 국가위기관리센터(지하 벙커) 상황실에서 합동참모본부의 보고를 받고 국군 통수권을 인수하는 것으로",
-            "provider": [
-                {
-                    "_type": "Organization",
-                    "name": "한국일보",
-                    "image": {
-                        "thumbnail": {
-                            "contentUrl": "https://www.bing.com/th?id=ODF.KBR3QQU3jNN8ZnHcADZlNw&pid=news"
-                        }
-                    }
-                }
-            ],
-            "datePublished": "2022-05-09T16:34:09.0000000Z"
-        },
-        {
-            "name": "미리보는 尹 취임식…걸어서 연단 오르고 靑 개방 현장 중계도(종합)",
-            "url": "https://www.msn.com/ko-kr/news/national/%EB%AF%B8%EB%A6%AC%EB%B3%B4%EB%8A%94-%E5%B0%B9-%EC%B7%A8%EC%9E%84%EC%8B%9D-%EA%B1%B8%EC%96%B4%EC%84%9C-%EC%97%B0%EB%8B%A8-%EC%98%A4%EB%A5%B4%EA%B3%A0-%E9%9D%91-%EA%B0%9C%EB%B0%A9-%ED%98%84%EC%9E%A5-%EC%A4%91%EA%B3%84%EB%8F%84%EC%A2%85%ED%95%A9/ar-AAX3P5A",
-            "image": {
-                "thumbnail": {
-                    "contentUrl": "https://www.bing.com/th?id=OVFT.nU6OY14aUwAdVYkZTh1YwC&pid=News",
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.bU1tgvd_kRFrAVCcDCEWci&pid=News",
                     "width": 499,
-                    "height": 280
+                    "height": 314
                 },
                 "isLicensed": true
             },
-            "description": "개식영상에서 집무실 이전 의미 강조…尹, 국회 180ｍ 걸으며 시민들과 '스킨십'尹-文 나란히 착석…朴전대통령·이순자·김윤옥 등도 단상 위에 국민대표 20명과 단상에…'깐부 할아버지' 오영수·천안함 생존자 등 식순에 참여  (서울=연합뉴스) 홍지인 최덕재 기자 = 윤석열 대통령 당선인의 10일 취임식은 '국민이 함께 만드는 취임식'을 표방, 국민이 직접",
+            "description": "필요성·실질 삭감 폭·업무강도 저감 등…임금 청구 줄소송 이어질 듯  (서울=연합뉴스) 정성조 기자 = 대법원이 26일 '합리적 이유' 없이 연령만을 기준으로 적용된 임금피크제는 무효라는 판단을 내리면서 임금피크제를 채택한 전국 산업현장에서 노사 재협상 등 변화가 불가피해졌다. 임금피크제는 노동자가 일정한 연령에 도달한 뒤 고용 보장이나 정년 연장을",
             "provider": [
                 {
                     "_type": "Organization",
@@ -50,20 +25,20 @@
                     }
                 }
             ],
-            "datePublished": "2022-05-09T07:25:01.0000000Z"
+            "datePublished": "2022-05-26T05:55:54.0000000Z"
         },
         {
-            "name": "마르코스 주니어, 필리핀 대통령 당선···‘독재자 가문의 귀환’",
-            "url": "https://www.msn.com/ko-kr/news/world/%EB%A7%88%EB%A5%B4%EC%BD%94%EC%8A%A4-%EC%A3%BC%EB%8B%88%EC%96%B4-%ED%95%84%EB%A6%AC%ED%95%80-%EB%8C%80%ED%86%B5%EB%A0%B9-%EB%8B%B9%EC%84%A0-%EB%8F%85%EC%9E%AC%EC%9E%90-%EA%B0%80%EB%AC%B8%EC%9D%98-%EA%B7%80%ED%99%98/ar-AAX5sh6",
+            "name": "'퇴임’ 박병석 국회의장 “민주당, 대선 패배 성찰 부족” 쓴소리",
+            "url": "https://www.msn.com/ko-kr/news/politics/%ED%87%B4%EC%9E%84-%EB%B0%95%EB%B3%91%EC%84%9D-%EA%B5%AD%ED%9A%8C%EC%9D%98%EC%9E%A5-%EB%AF%BC%EC%A3%BC%EB%8B%B9-%EB%8C%80%EC%84%A0-%ED%8C%A8%EB%B0%B0-%EC%84%B1%EC%B0%B0-%EB%B6%80%EC%A1%B1-%EC%93%B4%EC%86%8C%EB%A6%AC/ar-AAXK1oe",
             "image": {
                 "thumbnail": {
-                    "contentUrl": "https://www.bing.com/th?id=OVFT.GHhYU2j-T20y-MjYA4harS&pid=News",
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.aHb3qEer-1G2r8_ZEDwjjC&pid=News",
                     "width": 600,
                     "height": 315
                 },
                 "isLicensed": true
             },
-            "description": "  ‘필리핀 최악의 독재자’의 아들 페르디난드 마르코스(64) 전 상원의원이 차기 대통령에 사실상 당선됐다. 러닝메이트로 부통령에 출마한 현 로드리고 두테르테 대통령의 딸 사라 두테르테(44) 후보도 당선을 확정하며 ‘독재자 2세들’이 정권을 잡게 됐다.  미국 ABC뉴스 등에 따르면 10일(현지시간) 대통령에 마르코스 후보가, 부통령엔 사라 두테르테",
+            "description": " 박 의장 “국민통합 위해 권력 분산 개헌 필요” 아쉬움 남긴 사례로 검수완박 입법과정 언급“의회정치 모범 보였지만 일방적으로 뒤집혀”    2년 간의 임기를 마치고 오는 29일 퇴임하는 박병석 국회의장은 26일 “이념과 지역, 세대, 성별로 갈라진 국민 분열의 적대적 정치를 청산하자”며 대통령 권력 분산과 다당제를 담은 헌법 개정이 필요하다고 밝혔다.",
             "provider": [
                 {
                     "_type": "Organization",
@@ -75,45 +50,45 @@
                     }
                 }
             ],
-            "datePublished": "2022-05-09T23:54:00.0000000Z"
+            "datePublished": "2022-05-26T03:52:00.0000000Z"
         },
         {
-            "name": "코스피 3개월 만에 2600선 붕괴… 나스닥 급락 영향",
-            "url": "https://www.msn.com/ko-kr/money/topstories/%EC%BD%94%EC%8A%A4%ED%94%BC-3%EA%B0%9C%EC%9B%94-%EB%A7%8C%EC%97%90-2600%EC%84%A0-%EB%B6%95%EA%B4%B4-%EB%82%98%EC%8A%A4%EB%8B%A5-%EA%B8%89%EB%9D%BD-%EC%98%81%ED%96%A5/ar-AAX5waJ",
+            "name": "'성매매·도박' 빅뱅 승리 9개 혐의 유죄 확정…징역 1년 6개월(종합2보)",
+            "url": "https://www.msn.com/ko-kr/news/national/%EC%84%B1%EB%A7%A4%EB%A7%A4-%EB%8F%84%EB%B0%95-%EB%B9%85%EB%B1%85-%EC%8A%B9%EB%A6%AC-9%EA%B0%9C-%ED%98%90%EC%9D%98-%EC%9C%A0%EC%A3%84-%ED%99%95%EC%A0%95-%EC%A7%95%EC%97%AD-1%EB%85%84-6%EA%B0%9C%EC%9B%94%EC%A2%85%ED%95%A92%EB%B3%B4/ar-AAXJTjM",
             "image": {
                 "thumbnail": {
-                    "contentUrl": "https://www.bing.com/th?id=OVFT.r9g-gB5JAltR7jdQAiAd9C&pid=News",
-                    "width": 600,
-                    "height": 315
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.5V22Eqbra72JvzOv49nRUy&pid=News",
+                    "width": 499,
+                    "height": 314
                 },
                 "isLicensed": true
             },
-            "description": "게티이미지뱅크코스피 2,600선이 무너졌다. 간밤 미국 뉴욕증시에서 나스닥이 4% 넘게 급락하는 등 긴축에 따른 경기 둔화 우려가 확산된 영향으로 풀이된다. 10일 한국거래소에 따르면, 코스피 개장과 동시에 심리적 지지선으로 여겨진 2,600선이 붕괴됐다. 이날 코스피는 전 거래일 대비 20.68포인트(0.79%) 빠진 2,590.13에 거래를 시작했다.",
+            "description": "도박자금 100만 달러 추징은 기각…민간 교도소 이감돼 내년 2월까지 복역  (서울=연합뉴스) 황재하 정성조 기자 = 성매매 알선과 해외 원정도박 등 혐의로 기소된 그룹 빅뱅의 전 멤버 승리(본명 이승현·32)의 유죄가 확정됐다. 대법원 1부(주심 노태악 대법관)는 26일 상습도박과 성매매처벌법 위반(성매매·성매매 알선·카메라 등 이용 촬영),",
             "provider": [
                 {
                     "_type": "Organization",
-                    "name": "한국일보",
+                    "name": "연합뉴스",
                     "image": {
                         "thumbnail": {
-                            "contentUrl": "https://www.bing.com/th?id=ODF.KBR3QQU3jNN8ZnHcADZlNw&pid=news"
+                            "contentUrl": "https://www.bing.com/th?id=ODF.1w-i42REUmBls5jZ__5EJA&pid=news"
                         }
                     }
                 }
             ],
-            "datePublished": "2022-05-10T00:08:07.0000000Z"
+            "datePublished": "2022-05-26T02:25:33.0000000Z"
         },
         {
-            "name": "‘한동훈 청문회’ 17시간 30분 만에 종료…청문보고서 채택 무산",
-            "url": "https://www.msn.com/ko-kr/news/national/%ED%95%9C%EB%8F%99%ED%9B%88-%EC%B2%AD%EB%AC%B8%ED%9A%8C-17%EC%8B%9C%EA%B0%84-30%EB%B6%84-%EB%A7%8C%EC%97%90-%EC%A2%85%EB%A3%8C-%EC%B2%AD%EB%AC%B8%EB%B3%B4%EA%B3%A0%EC%84%9C-%EC%B1%84%ED%83%9D-%EB%AC%B4%EC%82%B0/ar-AAX5mV1",
+            "name": "유엔 안보리 북 추가 제재안 표결키로…중·러 거부권 행사할듯",
+            "url": "https://www.msn.com/ko-kr/news/world/%EC%9C%A0%EC%97%94-%EC%95%88%EB%B3%B4%EB%A6%AC-%EB%B6%81-%EC%B6%94%EA%B0%80-%EC%A0%9C%EC%9E%AC%EC%95%88-%ED%91%9C%EA%B2%B0%ED%82%A4%EB%A1%9C-%EC%A4%91-%EB%9F%AC-%EA%B1%B0%EB%B6%80%EA%B6%8C-%ED%96%89%EC%82%AC%ED%95%A0%EB%93%AF/ar-AAXJHxl",
             "image": {
                 "thumbnail": {
-                    "contentUrl": "https://www.bing.com/th?id=OVFT.FMEJAlTuHoBY7C3VuxXlfi&pid=News",
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.HGO_3SuRWivKMH7DqJ9alC&pid=News",
                     "width": 600,
                     "height": 315
                 },
                 "isLicensed": true
             },
-            "description": " 한동훈 법무부 장관 후보자에 대한 국회인사청문회가 개시된지 17시간 만에 종료됐다. 한 후보자에 대한 인사청문보고서는 채택되지 않았다. 국회 법제사법위원회는 전날 오전 10시에 시작한 청문회가 밤늦게까지 이어지자, 차수 변경으로 날짜를 넘겨 10일 새벽 3시30분께까지 진행했다. 증인 신문과 보충질의가 이어진 탓이었다. 국민의힘은 청문회 종료와 함께",
+            "description": " 유엔 안전보장이사회가 북한에 대한 추가 제재 결의안을 26일(현지시각) 표결에 부친다고  통신이 보도했다.  이번 표결은 북한이 25일 대륙간탄도미사일(ICBM)을 비롯한 탄도미사일 3발을 시험발사한 직후 이뤄지는 것이다. 결의 초안은 북한에 대한 연간 원유 공급 상한을 기존 400만배럴에서 300만배럴로 줄이고, 정제유도 50만배럴에서 37만5천배럴로",
             "provider": [
                 {
                     "_type": "Organization",
@@ -125,70 +100,95 @@
                     }
                 }
             ],
-            "datePublished": "2022-05-09T23:52:24.0000000Z"
+            "datePublished": "2022-05-26T01:44:44.0000000Z"
         },
         {
-            "name": "임은정 \"한동훈, 아주 위험한 검사... 윤석열 일가 수사 못할 것\"",
-            "url": "https://www.msn.com/ko-kr/news/national/%EC%9E%84%EC%9D%80%EC%A0%95-%ED%95%9C%EB%8F%99%ED%9B%88-%EC%95%84%EC%A3%BC-%EC%9C%84%ED%97%98%ED%95%9C-%EA%B2%80%EC%82%AC-%EC%9C%A4%EC%84%9D%EC%97%B4-%EC%9D%BC%EA%B0%80-%EC%88%98%EC%82%AC-%EB%AA%BB%ED%95%A0-%EA%B2%83/ar-AAX59Tu",
+            "name": "이창용 \"당분간 물가 중심 통화정책\"…기준금리 추가 인상 시사(종합)",
+            "url": "https://www.msn.com/ko-kr/money/topstories/%EC%9D%B4%EC%B0%BD%EC%9A%A9-%EA%B8%B0%EC%A4%80%EA%B8%88%EB%A6%AC-225-250-%EC%A0%84%EB%A7%9D-%ED%95%A9%EB%A6%AC%EC%A0%81-%EC%B6%94%EA%B0%80%EC%9D%B8%EC%83%81-%EC%8B%9C%EC%82%AC%EC%A2%85%ED%95%A9/ar-AAXJNeM",
             "image": {
                 "thumbnail": {
-                    "contentUrl": "https://www.bing.com/th?id=OVFT.IdD63wP43ZO19NlLsB6TaC&pid=News",
-                    "width": 600,
-                    "height": 315
-                },
-                "isLicensed": true
-            },
-            "description": "한동훈 법무부 장관 후보자가 9일 오후 서울 여의도 국회에서 열린 인사청문회에 출석해 자리하고 있다. 연합뉴스 임은정 법무부 감찰담당관은 9일 “검찰 내 윤석열 사단이 존재한다”며 “한동훈 (법무부 장관) 후보자는 윤석열 당선인을 향한 수사하지 못할 것이기 때문에 회피해야 한다”고 말했다. 한 후보자는 '윤석열 사단'의 핵심 인사로 꼽힌다. 임 담당관은",
-            "provider": [
-                {
-                    "_type": "Organization",
-                    "name": "한국일보",
-                    "image": {
-                        "thumbnail": {
-                            "contentUrl": "https://www.bing.com/th?id=ODF.KBR3QQU3jNN8ZnHcADZlNw&pid=news"
-                        }
-                    }
-                }
-            ],
-            "datePublished": "2022-05-09T19:00:25.0000000Z"
-        },
-        {
-            "name": "[단독]골프공 찾으려다 연못에 빠져 '참변'···첫 ‘시민재해’ 적용 '중대재해법' 처벌",
-            "url": "https://www.msn.com/ko-kr/news/other/%EB%8B%A8%EB%8F%85-%EA%B3%A8%ED%94%84%EA%B3%B5-%EC%B0%BE%EC%9C%BC%EB%A0%A4%EB%8B%A4-%EC%97%B0%EB%AA%BB%EC%97%90-%EB%B9%A0%EC%A0%B8-%EC%B0%B8%EB%B3%80-%EC%B2%AB-%EC%8B%9C%EB%AF%BC%EC%9E%AC%ED%95%B4-%EC%A0%81%EC%9A%A9-%EC%A4%91%EB%8C%80%EC%9E%AC%ED%95%B4%EB%B2%95-%EC%B2%98%EB%B2%8C/ar-AAX3Wah",
-            "image": {
-                "thumbnail": {
-                    "contentUrl": "https://www.bing.com/th?id=OVFT.UugZLmONs2XXtlcIbWxmTi&pid=News",
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.eiHxgOKmewccicYsKwLnIC&pid=News",
                     "width": 499,
-                    "height": 297
+                    "height": 314
                 },
                 "isLicensed": true
             },
-            "description": "  골프장에서 골프를 하던 50대 여성이 연못에 빠져 숨진 사건을 수사하고 있는 경찰이 이 사건이 ‘중대시민재해’에 해당한다고 판단하고 중대재해처벌법을 적용하기로 했다. 지난 1월 법 시행이후 공중시설 이용 중 발생한 사고에 대해 중대시민재해 혐의가 적용되는 것은 이번이 처음이다.  전남지방경찰청은 9일 “순천의 한 골프장에서 발생한 익사 사고가",
+            "description": "\"물가상승률 당분간 5%대, 내년 초 4%대 예상\"\"물가 정점, 올해 중반기 넘어설 가능성\"\"기준금리, 중립금리 수준 수렴하도록\"\"시장의 기준금리 2.25∼2.50% 전망, 합리적 기대\"   (서울=연합뉴스) 김유아 오주현 기자 = 이창용 한국은행 총재는 26일 \"앞으로 수개월 간 물가를 중심으로 통화정책을 운용할 것\"이라며 기준금리 추가 인상을 시사했다",
             "provider": [
                 {
                     "_type": "Organization",
-                    "name": "경향신문",
+                    "name": "연합뉴스",
                     "image": {
                         "thumbnail": {
-                            "contentUrl": "https://www.bing.com/th?id=ODF.jgPGs3ZkcMqv7I073KQHbg&pid=news"
+                            "contentUrl": "https://www.bing.com/th?id=ODF.1w-i42REUmBls5jZ__5EJA&pid=news"
                         }
                     }
                 }
             ],
-            "datePublished": "2022-05-09T07:06:00.0000000Z"
+            "datePublished": "2022-05-26T04:05:15.0000000Z"
         },
         {
-            "name": "文 귀향에 들썩이는 양산 평산마을, 대규모 인파 몰린다",
-            "url": "https://www.msn.com/ko-kr/news/national/%E6%96%87-%EA%B7%80%ED%96%A5%EC%97%90-%EB%93%A4%EC%8D%A9%EC%9D%B4%EB%8A%94-%EC%96%91%EC%82%B0-%ED%8F%89%EC%82%B0%EB%A7%88%EC%9D%84-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%9D%B8%ED%8C%8C-%EB%AA%B0%EB%A6%B0%EB%8B%A4/ar-AAX5kvh",
+            "name": "[임금피크제 제동] 대법 \"연령 차별 금지 현행법 위반\"",
+            "url": "https://www.msn.com/ko-kr/news/other/%EC%9E%84%EA%B8%88%ED%94%BC%ED%81%AC%EC%A0%9C-%EC%A0%9C%EB%8F%99-%EB%8C%80%EB%B2%95-%EC%97%B0%EB%A0%B9-%EC%B0%A8%EB%B3%84-%EA%B8%88%EC%A7%80-%ED%98%84%ED%96%89%EB%B2%95-%EC%9C%84%EB%B0%98/ar-AAXJHkw",
             "image": {
                 "thumbnail": {
-                    "contentUrl": "https://www.bing.com/th?id=OVFT.F4GWOadR5Hyqf5kjBciANS&pid=News",
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.MTRB9dBWhQbC3UGclox_Qi&pid=News",
                     "width": 600,
                     "height": 315
                 },
                 "isLicensed": true
             },
-            "description": "9일 오후 문재인 대통령의 마지막 임기 후 퇴근 인사가 예정된 서울 종로구 청와대 분수대 앞이 지지자들로 붐비고 있다. 뉴시스문재인 대통령의 임기는 9일 밤 12시 종료됐다. 재임 중 여러 차례 \"퇴임 후 잊혀진 사람으로 살고 싶다\"는 바람을 내비친 그는 현직 칭호를 뗀 뒤 전직 타이틀을 달고서 취임 전 거주지 경남 양산시로 돌아간다. 대통령이 임기를",
+            "description": "[서울=뉴스핌] 장현석 기자 = 특정 나이가 지나면 임금을 차등 지급하는 '임금피크제'가 연령에 따른 차별을 금지한 현행법에 어긋나 무효라는 대법원 첫 판단이 나왔다. 대법원 1부(주심 노태악 대법관)는 26일 오전 10시 퇴직자 A씨가 한국전자기술연구원을 상대로 제기한 임금 등 청구 소송 상고심 선고기일을 열고 원고 승소 판결한 원심 판결을 확정했다. ",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "뉴스핌",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.1U1kQ_Lw-rVRSDvJHpZN8g&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2022-05-26T01:22:00.0000000Z"
+        },
+        {
+            "name": "尹대통령, 교육 박순애·보건복지 김승희 지명…여성 발탁(종합2보)",
+            "url": "https://www.msn.com/ko-kr/news/national/%E5%B0%B9%EB%8C%80%ED%86%B5%EB%A0%B9-%EA%B5%90%EC%9C%A1-%EB%B0%95%EC%88%9C%EC%95%A0-%EB%B3%B4%EA%B1%B4%EB%B3%B5%EC%A7%80-%EA%B9%80%EC%8A%B9%ED%9D%AC-%EC%A7%80%EB%AA%85-%EC%97%AC%EC%84%B1-%EB%B0%9C%ED%83%81%EC%A2%85%ED%95%A92%EB%B3%B4/ar-AAXJJmt",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.2nAINX0zOWt-79vgn8V1ri&pid=News",
+                    "width": 499,
+                    "height": 314
+                },
+                "isLicensed": true
+            },
+            "description": "교육수장에 '공공행정 전문가' 발탁…'정호영 낙마' 사흘만에 보건수장 지명女장관 3→5명…식품의약품안전처장엔 오유경  (서울=연합뉴스) 이준서 기자 = 사회부총리 겸 교육부 장관 후보자에 박순애 서울대 행정대학원 교수, 보건복지부 장관 후보자에 김승희 전 의원이 각각 지명됐다. 앞서 김인철 사회부총리 후보자, 정호영 보건복지부 장관 후보자가 낙마하면서",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "연합뉴스",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.1w-i42REUmBls5jZ__5EJA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2022-05-26T03:05:45.0000000Z"
+        },
+        {
+            "name": "조국 \"직위해제라 사직서 낼 수 없다더니...서울대, 날 거짓말쟁이로 몰아\"",
+            "url": "https://www.msn.com/ko-kr/news/national/%EC%A1%B0%EA%B5%AD-%EC%A7%81%EC%9C%84%ED%95%B4%EC%A0%9C%EB%9D%BC-%EC%82%AC%EC%A7%81%EC%84%9C-%EB%82%BC-%EC%88%98-%EC%97%86%EB%8B%A4%EB%8D%94%EB%8B%88%EC%84%9C%EC%9A%B8%EB%8C%80-%EB%82%A0-%EA%B1%B0%EC%A7%93%EB%A7%90%EC%9F%81%EC%9D%B4%EB%A1%9C-%EB%AA%B0%EC%95%84/ar-AAXJYC4",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.5JaLNincCFeZI4Jc0otmFC&pid=News",
+                    "width": 600,
+                    "height": 315
+                },
+                "isLicensed": true
+            },
+            "description": "지난해 12월 24일 오전 조국 전 법무부 장관이 서울중앙지법에서 열린 '자녀 입시비리' 1심 속행 공판에 출석하고 있다. 연합뉴스조국 전 법무부 장관이 서울대에 사직 의사를 밝혔다는 주장에 대해 서울대가 \"조 교수는 사의를 표명하지 않았음을 알려드린다\"는 입장을 내자 조 전 장관이 공개 반박했다. 직위해제로 사직서를 제출하지 못했을 뿐 사직 의사는",
             "provider": [
                 {
                     "_type": "Organization",
@@ -200,107 +200,107 @@
                     }
                 }
             ],
-            "datePublished": "2022-05-09T19:30:00.0000000Z"
+            "datePublished": "2022-05-26T03:30:07.0000000Z"
         },
         {
-            "name": "대구 소년·광주 소녀와 함께…취임식에서 강조된 尹 의중은?",
-            "url": "https://www.msn.com/ko-kr/news/politics/%EB%8C%80%EA%B5%AC-%EC%86%8C%EB%85%84-%EA%B4%91%EC%A3%BC-%EC%86%8C%EB%85%80%EC%99%80-%ED%95%A8%EA%BB%98-%EC%B7%A8%EC%9E%84%EC%8B%9D%EC%97%90%EC%84%9C-%EA%B0%95%EC%A1%B0%EB%90%9C-%E5%B0%B9-%EC%9D%98%EC%A4%91%EC%9D%80/ar-AAX5kTZ",
+            "name": "임금피크제 사라지면 어쩌나…대법 무효 판결에 기업들 '비상'",
+            "url": "https://www.msn.com/ko-kr/news/other/%EC%9E%84%EA%B8%88%ED%94%BC%ED%81%AC%EC%A0%9C-%EC%82%AC%EB%9D%BC%EC%A7%80%EB%A9%B4-%EC%96%B4%EC%A9%8C%EB%82%98-%EB%8C%80%EB%B2%95-%EB%AC%B4%ED%9A%A8-%ED%8C%90%EA%B2%B0%EC%97%90-%EA%B8%B0%EC%97%85%EB%93%A4-%EB%B9%84%EC%83%81/ar-AAXJYmc",
             "image": {
                 "thumbnail": {
-                    "contentUrl": "https://www.bing.com/th?id=OVFT.yrcAZIOAuJFALBem6HnJdC&pid=News",
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.JG7V4DaVxk2quFQdpXp9Yi&pid=News",
+                    "width": 499,
+                    "height": 275
+                },
+                "isLicensed": true
+            },
+            "description": "경총 \"임금피크제 본질 도외시한 판결…연령 차별 아닌 상생\"  (서울=연합뉴스) 재계·금융팀 = 대법원이 연령만을 이유로 직원의 임금을 깎는 '임금피크제'가 무효라고 판결하면서 임금피크제를 통해 인건비를 절감해 온 기업들에 비상이 걸렸다. 대법원의 이번 결정이 개별 기업에 관한 것이기는 하지만 임금피크제에 대한 첫 판단인데다 향후 유사한 소송이 줄을 이을",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "연합뉴스",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.1w-i42REUmBls5jZ__5EJA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2022-05-26T02:46:16.0000000Z"
+        },
+        {
+            "name": "한은, 기준금리 1.75%로 인상…성장률 2.7%로 낮추고 물가 4.5% 대폭 상향(종합)",
+            "url": "https://www.msn.com/ko-kr/money/topstories/%ED%95%9C%EC%9D%80-%EA%B8%B0%EC%A4%80%EA%B8%88%EB%A6%AC-175-%EB%A1%9C-%EC%9D%B8%EC%83%81-%EC%84%B1%EC%9E%A5%EB%A5%A0-27-%EB%A1%9C-%EB%82%AE%EC%B6%94%EA%B3%A0-%EB%AC%BC%EA%B0%80-45-%EB%8C%80%ED%8F%AD-%EC%83%81%ED%96%A5%EC%A2%85%ED%95%A9/ar-AAXIXhr",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.l5TqYZuOngwaA4ueaFI3vy&pid=News",
                     "width": 600,
                     "height": 315
                 },
                 "isLicensed": true
             },
-            "description": "제20대 대통령 취임식을 하루 앞둔 9일 국회 본관 앞에 마련된 취임식장에서 취임식 준비 관계자들이 마무리 작업을 하고 있다. 윤창원 기자윤석열 대통령은 10일 국회에서 '다시, 대한민국! 새로운 국민의 나라'라는 슬로건을 내세우며 취임식을 한다.핵심 키워드는 '국민'과 '소통' 그리고 '어린이의 꿈'이다. 국민 곁에서 소통하며 새로운 대한민국을 열겠다는",
+            "description": "    한국은행이 우리나라 기준금리를 기존의 1.50%에서 1.75%로 0.25%포인트(p) 올렸다. 15년 만의 첫 두 달 연속 인상이다. 우리나라의 올해 경제성장률(GDP) 전망치는 2.7%로 0.3%포인트(p) 낮췄으며 올해 물가상승률은 4.5%로 1.4%p 대폭 수정했다.한은의 정책결정기구인 금융통화위원회는 26일 정례회의를 열고 기준금리 0",
             "provider": [
                 {
                     "_type": "Organization",
-                    "name": "노컷뉴스",
+                    "name": "뉴스1",
                     "image": {
                         "thumbnail": {
-                            "contentUrl": "https://www.bing.com/th?id=ODF.lhz6XLscYcUYjOV0Wz7RSQ&pid=news"
+                            "contentUrl": "https://www.bing.com/th?id=ODF.FPGiCjSpNWuR3YuGCSVHjA"
                         }
                     }
                 }
             ],
-            "datePublished": "2022-05-09T20:10:00.0000000Z"
+            "datePublished": "2022-05-26T01:11:17.0000000Z"
         },
         {
-            "name": "문 대통령, 퇴임 연설서 \"위대한 국민과 함께해 영광이었다\"",
-            "url": "https://www.msn.com/ko-kr/news/national/%EB%AC%B8-%EB%8C%80%ED%86%B5%EB%A0%B9-%ED%87%B4%EC%9E%84-%EC%97%B0%EC%84%A4%EC%84%9C-%EC%9C%84%EB%8C%80%ED%95%9C-%EA%B5%AD%EB%AF%BC%EA%B3%BC-%ED%95%A8%EA%BB%98%ED%95%B4-%EC%98%81%EA%B4%91%EC%9D%B4%EC%97%88%EB%8B%A4/ar-AAX3x0W",
+            "name": "[2보] 윤창호법 효력상실…'음주운전 반복' 가중처벌 위헌",
+            "url": "https://www.msn.com/ko-kr/news/other/2%EB%B3%B4-%EC%9C%A4%EC%B0%BD%ED%98%B8%EB%B2%95-%ED%9A%A8%EB%A0%A5%EC%83%81%EC%8B%A4-%EC%9D%8C%EC%A3%BC%EC%9A%B4%EC%A0%84-%EB%B0%98%EB%B3%B5-%EA%B0%80%EC%A4%91%EC%B2%98%EB%B2%8C-%EC%9C%84%ED%97%8C/ar-AAXJJOz",
             "image": {
                 "thumbnail": {
-                    "contentUrl": "https://www.bing.com/th?id=OVFT._-Dn1d4g9ItXqxXUFtqgci&pid=News",
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.m0lnYsPqUeEQ1TkY-sR9ry&pid=News",
+                    "width": 499,
+                    "height": 314
+                },
+                "isLicensed": true
+            },
+            "description": " (서울=연합뉴스) 이대희 정성조 기자 = 음주운전이나 음주측정 거부를 반복한 운전자를 가중처벌하는 도로교통법(일명 윤창호법)이 헌법에 어긋난다는 헌법재판소의 판단이 나왔다. 반복된 음주운전에 대한 가중 처벌이 위헌이라는 작년 결정에 이어 재차 위헌 판단이 내려진 것이다. 헌재는 26일 도로교통법 148조2의 1항이 위헌이라고 결정했다. 이 조항은",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "연합뉴스",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.1w-i42REUmBls5jZ__5EJA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2022-05-26T05:20:22.0000000Z"
+        },
+        {
+            "name": "박지현發 쇄신론 과녁에 '친문'…朴 감싸는 '비문'에 계파갈등 전운",
+            "url": "https://www.msn.com/ko-kr/news/politics/%EB%B0%95%EC%A7%80%ED%98%84%E7%99%BC-%EC%87%84%EC%8B%A0%EB%A1%A0-%EA%B3%BC%EB%85%81%EC%97%90-%EC%B9%9C%EB%AC%B8-%E6%9C%B4-%EA%B0%90%EC%8B%B8%EB%8A%94-%EB%B9%84%EB%AC%B8%EC%97%90-%EA%B3%84%ED%8C%8C%EA%B0%88%EB%93%B1-%EC%A0%84%EC%9A%B4/ar-AAXJMP8",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.Gp6lfV3DZ3Yf5DwruIDWsS&pid=News",
                     "width": 600,
                     "height": 315
                 },
                 "isLicensed": true
             },
-            "description": " 문재인 대통령과 김정숙 여사가 9일 오전 서울 동작구 국립서울현충원 내 현충탑 참배를 위해 이동하며 국기에 대한 경례를 하고 있다. 뉴시스문재인 대통령은 임기 마지막 날인 9일 퇴임 연설에서 “위대한 국민과 함께할 수 있어서 정말 영광이었다”고 말했다. 문 대통령은 “그동안 과분한 사랑과 지지로 성원해 주신 국민 여러분께 무한한 감사의 말씀을 드린다”며",
+            "description": "   박지현 더불어민주당 공동비상대책위원장이 당내 쇄신론을 꺼내 들며 언급한 '86(80년대 학번·60년대생) 용퇴론'을 둔 당 내외 잡음이 가라앉지 않고 있다. 당 안팎에선 박 위원장의 대국민 호소와 쇄신론의 화살이 주로 당내 주류인 친문(親문재인) 의원들을 향하면서, 친문계와 친명(親이재명계) 또는 비문(非문재인)계 간 당내 계파 갈등의 전초전이",
             "provider": [
                 {
                     "_type": "Organization",
-                    "name": "한국일보",
+                    "name": "뉴스1",
                     "image": {
                         "thumbnail": {
-                            "contentUrl": "https://www.bing.com/th?id=ODF.KBR3QQU3jNN8ZnHcADZlNw&pid=news"
+                            "contentUrl": "https://www.bing.com/th?id=ODF.FPGiCjSpNWuR3YuGCSVHjA"
                         }
                     }
                 }
             ],
-            "datePublished": "2022-05-09T02:16:18.0000000Z"
-        },
-        {
-            "name": "문 대통령 “다음 정부도 성공의 역사 이어가길···통합의 길로 가야”",
-            "url": "https://www.msn.com/ko-kr/news/politics/%EB%AC%B8-%EB%8C%80%ED%86%B5%EB%A0%B9-%EB%8B%A4%EC%9D%8C-%EC%A0%95%EB%B6%80%EB%8F%84-%EC%84%B1%EA%B3%B5%EC%9D%98-%EC%97%AD%EC%82%AC-%EC%9D%B4%EC%96%B4%EA%B0%80%EA%B8%B8-%ED%86%B5%ED%95%A9%EC%9D%98-%EA%B8%B8%EB%A1%9C-%EA%B0%80%EC%95%BC/ar-AAX3h2r",
-            "image": {
-                "thumbnail": {
-                    "contentUrl": "https://www.bing.com/th?id=OVFT.XyoVz1rekEAw5joZWF8GoS&pid=News",
-                    "width": 600,
-                    "height": 315
-                },
-                "isLicensed": true
-            },
-            "description": "  문재인 대통령이 임기 마지막 날인 9일 “다음 정부에서도 성공하는 대한민국의 역사를 계속 이어나가기를 기대한다”고 말했다.  문 대통령은 이날 오전 10시 청와대 본관에서 한 퇴임 연설에서 윤석열 정부를 향해 “이전 정부들의 축적된 성과를 계승하고 발전시켜 더 국력이 커지고 더 나은 미래로 나아가기를 기원한다”면서 이같이 말했다. 문 대통령은 이를",
-            "provider": [
-                {
-                    "_type": "Organization",
-                    "name": "경향신문",
-                    "image": {
-                        "thumbnail": {
-                            "contentUrl": "https://www.bing.com/th?id=ODF.jgPGs3ZkcMqv7I073KQHbg&pid=news"
-                        }
-                    }
-                }
-            ],
-            "datePublished": "2022-05-09T01:24:00.0000000Z"
-        },
-        {
-            "name": "이재명 저격한 원희룡…조응천 \"후보자 중 역대급\"",
-            "url": "https://www.msn.com/ko-kr/news/national/%EC%9D%B4%EC%9E%AC%EB%AA%85-%EC%A0%80%EA%B2%A9%ED%95%9C-%EC%9B%90%ED%9D%AC%EB%A3%A1-%EC%A1%B0%EC%9D%91%EC%B2%9C-%ED%9B%84%EB%B3%B4%EC%9E%90-%EC%A4%91-%EC%97%AD%EB%8C%80%EA%B8%89/ar-AAX5s33",
-            "image": {
-                "thumbnail": {
-                    "contentUrl": "https://www.bing.com/th?id=OVFT.hhzz21tioa_sT-d93uEAji&pid=News",
-                    "width": 600,
-                    "height": 315
-                },
-                "isLicensed": true
-            },
-            "description": "원희룡 국토교통부장관 후보자에 대한 인사청문경과보고서 채택이 불발된 3일 조응천(왼쪽 두 번째) 더불어민주당 간사와 송석준(세 번째) 국민의힘 간사가 의견을 나누고 있다. 공동취재사진·뉴스1국회 국토교통위원회 소속 조응천 더불어민주당 의원이 원희룡 국토교통부 장관 후보자에 대해 \"가히 '역대급'\"이라며 강도 높게 비판했다. 원 후보자가 이재명 상임고문을",
-            "provider": [
-                {
-                    "_type": "Organization",
-                    "name": "한국일보",
-                    "image": {
-                        "thumbnail": {
-                            "contentUrl": "https://www.bing.com/th?id=ODF.KBR3QQU3jNN8ZnHcADZlNw&pid=news"
-                        }
-                    }
-                }
-            ],
-            "datePublished": "2022-05-09T23:00:10.0000000Z"
+            "datePublished": "2022-05-26T03:25:52.0000000Z"
         }
     ]
 }
