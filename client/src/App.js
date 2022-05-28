@@ -5,6 +5,7 @@ import NavBar from "./Components/NavBar";
 import News from "./Routes/News";
 import Search from "./Routes/Search";
 import Scrap from "./Routes/Scrap";
+import Template from "./Routes/Template";
 import Trends from "./Routes/Trends";
 import Modals from './Components/Modals';
 
@@ -27,6 +28,7 @@ function App() {
           <Route path="/search" element={<Search />} />
           <Route path="/trends" element={<Trends />} />
           <Route path="/scrap" element={<Scrap />} />
+          <Route path="/scrap/:template" element={<Template />} />
         </Routes>
       </Wrapper>
       <Modals />
