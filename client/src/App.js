@@ -1,13 +1,13 @@
 import { useLayoutEffect } from 'react';
 import { BrowserRouter, Route, Routes, useLocation } from "react-router-dom";
 import { CssBaseline } from "@mui/material";
-import NavBar from "./Components/NavBar";
 import News from "./Routes/News";
 import Search from "./Routes/Search";
 import Scrap from "./Routes/Scrap";
 import Template from "./Routes/Template";
 import Trends from "./Routes/Trends";
-import Modals from './Components/Modals';
+import NavBar from "./Components/Base/NavBar";
+import Modals from './Components/Modal/Modals';
 
 const Wrapper = ({children}) => {
   const location = useLocation();

@@ -1,6 +1,6 @@
 import React from 'react';
 import { Container, Typography } from '@mui/material';
-import ScrapList from '../Components/ScrapList';
+import ScrapList from '../Components/Scrap/ScrapList';
 
 const Scrap = () => {
 

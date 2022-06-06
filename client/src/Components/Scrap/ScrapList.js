@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from 'react';
-import { db } from '../Utils/firebase';
+import { db } from '../../Utils/firebase';
 import { collection, getDocs } from 'firebase/firestore';
 import ScrapTemplateCard from './ScrapTemplateCard';
-import { changeFormat } from '../Utils/time';
+import { changeFormat } from '../../Utils/time';
 import { Grid } from '@mui/material';
 
 const ScrapList = () => {

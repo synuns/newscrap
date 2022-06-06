@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { Card, CardActions, CardContent, CardMedia, IconButton, Typography } from '@mui/material';
-import { changeFormat } from '../Utils/time';
+import { changeFormat } from '../../Utils/time';
 import ArticleIcon from '@mui/icons-material/Article';
 import LinkIcon from '@mui/icons-material/Link';
 import DeleteIcon from '@mui/icons-material/Delete';

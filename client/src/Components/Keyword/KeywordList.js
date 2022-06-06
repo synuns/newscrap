@@ -1,13 +1,13 @@
 import React, { useState, useEffect } from 'react';
 import { useQuery } from 'react-query';
-import _ from 'lodash';
-import moment from 'moment';
-import TrendsAPI from '../api/TrendsAPI';
-import { fromNow } from '../Utils/time';
-import htmlDecode from '../Utils/htmlDecode';
+import TrendsAPI from '../../api/TrendsAPI';
 import { Box, Button, Card, CardContent, CardMedia, Typography } from '@mui/material';
 import VisibilityIcon from '@mui/icons-material/Visibility';
 import AccessTimeIcon from '@mui/icons-material/AccessTime';
+import _ from 'lodash';
+import moment from 'moment';
+import { fromNow } from '../../Utils/time';
+import htmlDecode from '../../Utils/htmlDecode';
 import { useNavigate } from 'react-router-dom';
 
 const KeywordList = () => {

@@ -1,8 +1,8 @@
 import React, { Suspense } from 'react'
-import KeywordsList from '../Components/KeywordList';
+import KeywordsList from '../Components/Keyword/KeywordList';
+import KeywordListLoading from '../Components/Keyword/KeywordListLoading';
 import { Box } from '@mui/material';
 import { ErrorBoundary } from 'react-error-boundary';
-import KeywordListLoading from '../Components/KeywordListLoading';
 
 const Trends = () => {
   return (

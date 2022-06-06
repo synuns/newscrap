@@ -1,7 +1,7 @@
 import { Grid } from '@mui/material';
 import { collection, doc, getDocs } from 'firebase/firestore';
 import React, { useEffect, useState } from 'react';
-import { db } from '../Utils/firebase';
+import { db } from '../../Utils/firebase';
 import ScrapNewsCard from './ScrapNewsCard';
 
 const ScrapNewsList = ({ id }) => {

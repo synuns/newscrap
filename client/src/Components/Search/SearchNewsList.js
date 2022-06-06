@@ -1,7 +1,7 @@
 import React from 'react'
 import { useQuery } from 'react-query';
-import NewsSearchAPI from '../api/NewsSearchAPI';
-import NewsCard from '../Components/NewsCard';
+import NewsSearchAPI from '../../api/NewsSearchAPI';
+import NewsCard from '../Common/NewsCard';
 
 const SearchNewsList = ({query}) => {
   const { data } = useQuery(

@@ -1,7 +1,7 @@
 import React, { Suspense } from "react";
 import { Box, Container, Typography } from "@mui/material";
-import MajorNewsList from "../Components/MajorNewsList";
-import NewsListLoading from "../Components/NewsListLoading";
+import MajorNewsList from "../Components/News/MajorNewsList";
+import NewsListLoading from "../Components/News/NewsListLoading";
 
 const News = () => {
   return (

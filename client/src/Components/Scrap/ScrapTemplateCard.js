@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 import { styled, alpha } from '@mui/material/styles';
 import { Card, CardActionArea, CardContent, CardHeader, CardMedia, Divider, IconButton, Menu, MenuItem, Typography } from '@mui/material';
-import { modals } from '../Components/Modals';
-import useModals from '../Hook/useModals';
+import { modals } from '../Modal/Modals';
+import useModals from '../../Hook/useModals';
 import { Link } from 'react-router-dom';
 // import { db } from '../Utils/firebase';
 // import { doc } from 'firebase/firestore';

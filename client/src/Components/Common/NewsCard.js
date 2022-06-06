@@ -1,9 +1,9 @@
 import { Box, Card, CardActionArea, CardContent, CardMedia, Typography } from '@mui/material';
 import React from 'react';
-import { fromNow } from '../Utils/time';
-import htmlDecode from '../Utils/htmlDecode';
-import useModals from "../Hook/useModals";
-import { modals } from '../Components/Modals';
+import { fromNow } from '../../Utils/time';
+import htmlDecode from '../../Utils/htmlDecode';
+import useModals from "../../Hook/useModals";
+import { modals } from '../Modal/Modals';
 
 const NewsCard = ({ news }) => {
   const { openModal } = useModals();

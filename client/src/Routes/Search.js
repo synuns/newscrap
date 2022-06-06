@@ -1,8 +1,8 @@
 import React, { Suspense } from 'react';
 import { useSearchParams } from 'react-router-dom';
 import { Container } from '@mui/material';
-import SearchNewsList from '../Components/SearchNewsList';
-import NewsListLoading from '../Components/NewsListLoading';
+import SearchNewsList from '../Components/Search/SearchNewsList';
+import NewsListLoading from '../Components/News/NewsListLoading';
 
 
 const Search = () => {

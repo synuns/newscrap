@@ -1,11 +1,11 @@
 import React from 'react';
 import { Box, Dialog, DialogActions, DialogContent, DialogContentText, DialogTitle, IconButton, Tooltip, Typography, useMediaQuery, useTheme } from '@mui/material';
 import { useQuery } from 'react-query';
-import NewsArticleAPI from '../api/NewsArticleAPI';
-import useModals from '../Hook/useModals';
-import { modals } from '../Components/Modals';
-import { changeFormat } from '../Utils/time';
-import htmlDecode from '../Utils/htmlDecode';
+import NewsArticleAPI from '../../api/NewsArticleAPI';
+import useModals from '../../Hook/useModals';
+import { modals } from './Modals';
+import { changeFormat } from '../../Utils/time';
+import htmlDecode from '../../Utils/htmlDecode';
 import Grow from '@mui/material/Grow';
 import CloseIcon from '@mui/icons-material/Close';
 import StarIcon from '@mui/icons-material/Star';

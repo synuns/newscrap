@@ -1,6 +1,6 @@
 import React, { useContext } from "react";
 import loadable from '@loadable/component';
-import { ModalsStateContext, ModalsDispatchContext } from "../Context/Modal/ModalsContext";
+import { ModalsStateContext, ModalsDispatchContext } from "../../Context/Modal/ModalsContext";
 
 export const modals = {
   newsModal: loadable(() => import('./NewsModal')),
