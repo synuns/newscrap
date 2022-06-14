@@ -63,6 +63,7 @@ export const DuplicateTemplateModal = ({ id, onClose, onSubmit }) => {
 
   const handleSubmit = () => {
     onSubmit(value);
+    onClose();
   };
 
   const handleClose = () => {
@@ -110,6 +111,7 @@ export const DeleteTemplateModal = ({ id, onClose, onSubmit }) => {
 
   const handleSubmit = () => {
     onSubmit();
+    onClose();
   };
 
   const handleClose = () => {
