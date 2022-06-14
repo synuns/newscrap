@@ -2,7 +2,7 @@ import { Box } from '@mui/material';
 import React from 'react';
 import { useQuery } from 'react-query';
 import NewsAPI from '../../api/NewsAPI';
-import NewsCard from '../Common/NewsCard';
+import NewsCard from './NewsCard';
 
 const MajorNewsList = () => {
   const majorNews = useQuery(['majorNews'], NewsAPI);

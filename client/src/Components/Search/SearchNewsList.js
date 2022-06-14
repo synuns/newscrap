@@ -1,7 +1,7 @@
 import React from 'react'
 import { useQuery } from 'react-query';
 import NewsSearchAPI from '../../api/NewsSearchAPI';
-import NewsCard from '../Common/NewsCard';
+import NewsCard from '../News/NewsCard';
 
 const SearchNewsList = ({query}) => {
   const { data } = useQuery(
@@ -15,9 +15,9 @@ const SearchNewsList = ({query}) => {
 
   return (
     <>
-    {data && data.value.map((news, idx) => (
-      <NewsCard key={idx} news={news} />
-    ))}
+      {data && data.value.map((news, idx) => (
+        <NewsCard key={idx} news={news} />
+      ))}
     </>
   )
 }

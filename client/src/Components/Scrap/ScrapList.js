@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { db } from '../../Utils/firebase';
-import { collection, getDocs } from 'firebase/firestore';
+import { collection, doc, getDocs, onSnapshot } from 'firebase/firestore';
 import ScrapTemplateCard from './ScrapTemplateCard';
 import { changeFormat } from '../../Utils/time';
 import { Grid } from '@mui/material';
@@ -9,9 +9,33 @@ const ScrapList = () => {
   const [scrapData, setScrapData] = useState([]);
   const scrapCollectionRef = collection(db, "scrap");
 
+  // onSnapshot(scrapCollectionRef, async(docSnap) => {
+  //   // console.log(`on snap shot...`);
+  //   const promises = docSnap.docs.map(async(_doc) => {
+  //     const templateNewsRef = collection(scrapCollectionRef, _doc.id, "news");
+  //     const newsList = await getDocs(templateNewsRef);
+  //     const docData = _doc.data();
+
+  //     const createdBy = changeFormat(docData.createdBy.toDate(), 'LL');
+  //     const newsCount = newsList.docs.length;
+  //     const images = newsList.docs.map((doc) => (doc.data().image));
+
+  //     const template = {
+  //       title : _doc.id,
+  //       createdBy : createdBy,
+  //       newsCount : newsCount,
+  //       images: images,
+  //     };
+
+  //     return template;
+  //   });
+
+  //   setScrapData(await Promise.all(promises));
+  // });
+
   const getScrapData = async () => {
     const docSnap = await getDocs(scrapCollectionRef);
-    
+  
     const promises = docSnap.docs.map(async(_doc) => {
       const templateNewsRef = collection(scrapCollectionRef, _doc.id, "news");
       const newsList = await getDocs(templateNewsRef);

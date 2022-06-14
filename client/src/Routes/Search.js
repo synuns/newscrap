@@ -2,7 +2,7 @@ import React, { Suspense } from 'react';
 import { useSearchParams } from 'react-router-dom';
 import { Container } from '@mui/material';
 import SearchNewsList from '../Components/Search/SearchNewsList';
-import NewsListLoading from '../Components/News/NewsListLoading';
+import NewsListSkeleton from '../Components/News/NewsListSkeleton';
 
 
 const Search = () => {
@@ -12,7 +12,7 @@ const Search = () => {
 
   return (
     <Container>
-      <Suspense fallback={NewsListLoading}>
+      <Suspense fallback={<NewsListSkeleton num={20}/>}>
         <SearchNewsList query={query} />
       </Suspense>
     </Container>
